@@ -49,9 +49,9 @@ struct CompressedData *options_buffered_textures[] = {
         //　　　　　　　Erase
         //　　　　　　　Cancel
 const char options_data_clear_confirm_text[] =
-        "\0023" "\0013" "\001C" "Are you sure?\n"
-        "\0021" "\0011" "\001C" "　　  　　 Yes\n"
-        "　　 　 No";
+        "\0023" "\0013" "\001C" "Confirmer⑲?\n"
+        "\0021" "\0011" "\001C" "　　  Oui\n"
+        "　　 　 Non";
 
 
 // [D_089cfb14] Option Descriptions
@@ -67,13 +67,13 @@ const char options_data_clear_confirm_text[] =
 
 const char *options_desc_text[] = {
     /* SOUND MODE ------------------------------------- */
-        "\0023" "\0013" "\001C" "Sound Mode\n"
-        "\0024" "\0011" "\001L" "Stereo　　" "\0021" " For dual-speaker systems. (DS, etc...)\n"
-        "\0024" "\0011" "\001L" "Mono　　 " "\x87\x53" "\0021" "For single-speaker systems. (GBA, etc...)",
+        "\0023" "\0013" "\001C" "Sortie audio\n"
+        "\0024" "\0011" "\001L" "St⑱r⑱o　　" "\0021" " Pour les syst㌢mes avec deux sorties.\n"
+        "\0024" "\0011" "\001L" "Mono　　 " "\x87\x53" "\0021" "Pour les syst㌢mes avec une seule sortie.",
     /* DATA CLEAR ------------------------------------- */
-        "\0023" "\0013" "\001C" "Clear Data\n"
-        "\0021" "\0011" "\001C" "This will delete " "\0022" "all " "\0021" "of your save data and start\n"
-        "you over from the beginning." "\0022" " Be careful!"
+        "\0023" "\0013" "\001C" "R⑱initialiser\n"
+        "\0021" "\0011" "\001C" "Vous allez supprimer " "\0022" "toutes " "\0021" "vos donn⑱es\n"
+        "et recommencer du tout d⑱but⑲!!!"
     /* ------------------------------------------------ */
 };
 

@@ -2,25 +2,25 @@
 struct MedalCornerLevel toys_menu_levels[] = {
     /* CAT_MACHINE */ {
         /* Scene  */ &scene_cat_machine,
-        /* Title  */ "Cat Machine",
+        /* Title  */ "DJ Miaou",
         /* Anim   */ anim_toys_menu_cat_machine,
         /* Medals */ 1
     },
     /* MECHANICAL_HORSE */ {
         /* Scene  */ &scene_mechanical_horse,
-        /* Title  */ "Horse Machine",
+        /* Title  */ "Cheval m‡Qcanique",
         /* Anim   */ anim_toys_menu_mechanical_horse,
         /* Medals */ 7
     },
     /* LOVE_MACHINE */ {
         /* Scene  */ &scene_love_machine,
-        /* Title  */ "Confession Machine",
+        /* Title  */ "Test d'amour",
         /* Anim   */ anim_toys_menu_love_machine,
         /* Medals */ 15
     },
     /* RAP_MACHINE */ {
         /* Scene  */ &scene_rap_machine,
-        /* Title  */ "Rap Machine",
+        /* Title  */ "Beat Box",
         /* Anim   */ anim_toys_menu_rap_machine,
         /* Medals */ 25
     }

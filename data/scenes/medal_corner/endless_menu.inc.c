@@ -2,25 +2,25 @@
 struct MedalCornerLevel endless_menu_levels[] = {
     /* MR_UPBEAT */ {
         /* Scene  */ &scene_mr_upbeat,
-        /* Title  */ "Mr. Upbeat",
+        /* Title  */ "M. Contretemps",
         /* Anim   */ anim_endless_menu_mr_upbeat,
         /* Medals */ 1
     },
     /* SICK_BEATS */ {
         /* Scene  */ &scene_sick_beats_endless,
-        /* Title  */ "Sick Beats Special",
+        /* Title  */ "Tempo labo",
         /* Anim   */ anim_endless_menu_sick_beats,
         /* Medals */ 10
     },
     /* QUIZ_SHOW */ {
         /* Scene  */ &scene_quiz_show_endless,
-        /* Title  */ "Quiz Show Special",
+        /* Title  */ "Question de rythme",
         /* Anim   */ anim_endless_menu_quiz_show,
         /* Medals */ 20
     },
     /* MANNEQUIN_FACTORY */ {
         /* Scene  */ &scene_mannequin_factory,
-        /* Title  */ "Mannequin Factory",
+        /* Title  */ "Tˆ®te ‡g claques",
         /* Anim   */ anim_endless_menu_mannequin,
         /* Medals */ 30
     }
