@@ -32,28 +32,27 @@ struct GraphicsTable drum_live_menu_gfx_table[] = {
 // [D_089e5c74] Poster Descriptions
 const char *drum_live_menu_poster_desc[] = {
     /* DRUM GIRLS */
-    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Drum Girls LIVE!\n"
+    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Les Drum Girls       en CONCERT ! \n"
     "\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Night Walk\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Space Dance\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Honey Sweet Angel of Love\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Balade nocturne\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Danse spatiale\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Petit Ange Sucr⑱\n"
     "\n",
     
     /* DRUM BOYS  */
-    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Drum Boys LIVE!\n"
+    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Les Drum Boys       en CONCERT ! \n"
     "\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　The Clappy Trio\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Tap Trial\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　WISH - Can't Wait For You\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Trio clap clap\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Claquettes\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Attendre Pour Toi\n"
     "\n",
 
     /* DRUM BAND  */
-    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Samurai Drummer's\n"
-    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "\x01\x52" "Band LIVE! \n"
-    "\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "\x01\x4c" "♪　Cosmic Dance\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　The Snappy Trio\n"
-    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Tap Trial 2\n"
+    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Samourai Tom       et sa bande \n"
+    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "\x01\x52" "en CONCERT ! \n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "\x01\x4c" "♪　Danse cosmique\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Trio western clap\n"
+    "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "♪　Super claquettes\n"
     "\n"
 };
 
