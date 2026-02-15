@@ -75,7 +75,7 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_polyrhythm_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "La production de masse s'aváare plus difficile que práQvue...",
+            /* TRY_AGAIN */ "La production de masse s'aváare plus dure que práQvue.",
             /* OK        */ "On arrive ág en produire de plus en plusáR!",
             /* SUPERB    */ "On en a produit plus qu'on ne peut en stockeráR!"
         }
@@ -156,7 +156,7 @@ struct LevelData level_data_table[] = {
         /* Epilogue GFX  */ epilogue_rhythm_tweezers_2_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Pourquoi il faut qu'ils soient si poilus...áR?",
-            /* OK        */ "Pourquoi suis-je le seul qui fait pousser des oignons poilusáR?",
+            /* OK        */ "Pourquoi suis-je le seul ág avoir des oignons poilusáR?",
             /* SUPERB    */ "Il n'y a plus un poil ág l'horizonáR!"
         }
     },
@@ -299,7 +299,7 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_spaceball_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Mes hommages, cher voisin... Euh... Vous voulez un onigiriáR?",
+            /* TRY_AGAIN */ "Mes hommages, cher voisin... Vous voulez un onigiriáR?",
             /* OK        */ "Je dois... encore... m'entraà≤neráR!",
             /* SUPERB    */ "Vous àÆtes le roi du Å·áRspace runáRÅ‚áR!"
         }
@@ -397,7 +397,7 @@ struct LevelData level_data_table[] = {
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "...J'ai peuráR!",
             /* OK        */ "Elles seront si jolie apráas avoir áQclosáR!",
-            /* SUPERB    */ "Comment pourrais-je me sentir seule avec toutes ces fleursáR?"
+            /* SUPERB    */ "Comment me sentir seule avec toutes ces fleursáR?"
         }
     },
     /* BUNNY_HOP */ {
@@ -683,9 +683,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "C'áQtait aussi excitant que de jouer seul ág la balle.",
-            /* OK        */ "C'áQtait aussi excitant qu'une partie de baseball entre amis.",
-            /* SUPERB    */ "C'áQtait aussi excitant qu'un tournoi mondial de baseballáR!"
+            /* TRY_AGAIN */ "C'áQtait aussi intense que de jouer seul ág la balle.",
+            /* OK        */ "C'áQtait aussi intense que jouer au baseball entre amis.",
+            /* SUPERB    */ "C'áQtait aussi intense qu'un tournoi mondial de baseballáR!"
         }
     },
     /* REMIX_3 */ {
