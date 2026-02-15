@@ -5,19 +5,19 @@
 /* Game Text - Sneaky Spirits */
 
 
-const char D_0805ba80[] = "Your archery fundamentals needed work.";
+const char D_0805ba80[] = "Il faudrait revoir les bases...";
 
 const char D_0805ba9c[] = "";
 
-const char D_0805baa0[] = "The silent ghosts sneaked past you.";
+const char D_0805baa0[] = "Ne vous basez pas que sur le son.";
 
-const char D_0805bac4[] = "You hit them even when they were quiet.";
+const char D_0805bac4[] = "Vous gardez votre calme sans le son.";
 
-const char D_0805bae4[] = "You should have counted to yourself.";
+const char D_0805bae4[] = "Entraˆ²nez-vous ‡g compter de tˆ®te...";
 
-const char D_0805bb04[] = "Your internal count was spot on!";
+const char D_0805bb04[] = "Vous savez compter de tˆ®te‡R!";
 
-const char D_0805bb20[] = "You did superbly against the slow ones.";
+const char D_0805bb20[] = "Mˆ®me au ralenti, c'‡Qtait parfait‡R!";
 
 const char D_0805bb40[] = "‚r‚”‚‚@‚”‚ˆ‚‚“‚…@‚‡‚ˆ‚‚“‚”‚“I";
 
@@ -35,20 +35,20 @@ const char D_0805bb9D[] = "‚m‚‚—I";
 
 const char D_0805bba8[] = "‚s‚‰‚‚…@‚”‚@‚“‚”‚‚’‚”@‚”‚ˆ‚…@‚’‚…‚‚Œ@‚‡‚‚‚…D";
 
-const char D_0805bbc8[] = "Spooky voices agree";
+const char D_0805bbc8[] = "Murmures sous la pluie";
 
-const char D_0805bbd8[] = "Your archery fundamentals needed work.";
+const char D_0805bbd8[] = "Il faudrait revoir les bases...";
 
 const char D_0805bbf4[] = "";
 
-const char D_0805bbf8[] = "The silent ghosts sneaked past you.";
+const char D_0805bbf8[] = "Ne vous basez pas que sur le son.";
 
-const char D_0805bc1c[] = "You hit them even when they were quiet.";
+const char D_0805bc1c[] = "Vous gardez votre calme sans le son.";
 
-const char D_0805bc3c[] = "You should have counted to yourself.";
+const char D_0805bc3c[] = "Entraˆ²nez-vous ‡g compter de tˆ®te...";
 
-const char D_0805bc5c[] = "Your internal count was spot on!";
+const char D_0805bc5c[] = "Vous savez compter de tˆ®te‡R!";
 
-const char D_0805bc78[] = "You did superbly against the slow ones.";
+const char D_0805bc78[] = "Mˆ®me au ralenti, c'‡Qtait parfait‡R!";
 
-const char D_0805bc98[] = "spooky voices agree";
+const char D_0805bc98[] = "Murmures sous la pluie";

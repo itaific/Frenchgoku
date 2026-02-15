@@ -5,56 +5,56 @@
 /* Game Text - The Clappy Trio */
 
 
-const char D_0805ad94[] = "Work on your basics.";
+const char D_0805ad94[] = "Il faut revoir les bases.";
 
 const char D_0805adb0[] = "";
 
-const char D_0805adb4[] = "You struggled with the syncopated parts.";
+const char D_0805adb4[] = "Les contretemps ‡Qtaient rat‡Qs.";
 
-const char D_0805add0[] = "Your syncopation sounded great!";
+const char D_0805add0[] = "Les contretemps ‡Qtaient g‡Qniaux‡R!";
 
-const char D_0805ade8[] = "You missed more in the slow parts.";
+const char D_0805ade8[] = "Les passages lents ‡Qtaient passables.";
 
-const char D_0805ae08[] = "You showed a great sense of flow.";
+const char D_0805ae08[] = "On a le rythme dans la peau‡R!";
 
-const char D_0805ae1c[] = "You couldn't keep up in the fast parts.";
+const char D_0805ae1c[] = "C'est trop dur quand ˆ¹a va vite...";
 
-const char D_0805ae34[] = "Peer review";
+const char D_0805ae34[] = "Commentaire du trio";
 
-const char D_0805ae40[] = "Work on your basics.";
+const char D_0805ae40[] = "Il faut revoir les bases.";
 
 const char D_0805ae5c[] = "";
 
-const char D_0805ae60[] = "You struggled with the syncopated parts.";
+const char D_0805ae60[] = "Les contretemps ‡Qtaient rat‡Qs.";
 
-const char D_0805ae7c[] = "Your syncopation sounded great!";
+const char D_0805ae7c[] = "Les contretemps ‡Qtaient g‡Qniaux‡R!";
 
-const char D_0805ae90[] = "You missed more in the slow parts.";
+const char D_0805ae90[] = "Les passages lents ‡Qtaient passables.";
 
-const char D_0805aeb0[] = "You showed a great sense of flow.";
+const char D_0805aeb0[] = "On a le rythme dans la peau‡R!";
 
-const char D_0805aec8[] = "You couldn't keep up in the fast parts.";
+const char D_0805aec8[] = "C'est trop dur quand ˆ¹a va vite...";
 
-const char D_0805aee8[] = "You were on top of the fast parts!";
+const char D_0805aee8[] = "Les passages rapides ‡Qtaient parfaits‡R!";
 
-const char D_0805af08[] = "Peer review";
+const char D_0805af08[] = "Commentaire du trio";
 
-const char D_0805af14[] = "Hi, we're the Clappy Trio!";
+const char D_0805af14[] = "Salut‡R! Nous sommes le trio clap clap‡R!";
 
-const char D_0805af30[] = "We clap our hands on a steady beat.";
+const char D_0805af30[] = "Notre truc, c'est de clapper en rythme.";
 
-const char D_0805af48[] = "You do the third clap, OK?";
+const char D_0805af48[] = "Vous ˆ®tes en troisi‡ame place‡R!";
 
-const char D_0805af60[] = "Let's practice!";
+const char D_0805af60[] = "Un peu d'entraˆ²nement‡R?";
 
-const char D_0805af7c[] = "Press ‡M for the third clap.";
+const char D_0805af7c[] = "Clappez en appuyant sur ‡M.";
 
-const char D_0805afa0[] = "OK.";
+const char D_0805afa0[] = "OK‡R!";
 
-const char D_0805afa8[] = "Just like that.";
+const char D_0805afa8[] = "C'est tr‡as bien‡R!";
 
-const char D_0805afb8[] = "Let's speed it up a bit.";
+const char D_0805afb8[] = "Acc‡Ql‡Qrons un peu.";
 
-const char D_0805afd0[] = "OK";
+const char D_0805afd0[] = "OK‡R!";
 
-const char D_0805afd4[] = "It's time for our show! Clap like you mean it!";
+const char D_0805afd4[] = "Le spectacle va commencer‡R!";
