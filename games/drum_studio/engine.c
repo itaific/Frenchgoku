@@ -121,40 +121,40 @@ const char D_08059f94[] = "";
 
 const char D_08059f98[] = "";
 
-const char D_08059f9c[] = "\nFocus only on the beginning!";
+const char D_08059f9c[] = "\nOccupe-toi seulement du debut.";
 
-const char D_08059fb4[] = "\nAim for the beginning!";
+const char D_08059fb4[] = "\nCommence au bon moment‡R!";
 
-const char D_08059fd0[] = "\nDon't space out!";
+const char D_08059fd0[] = "\nTe laisse pas distraire‡R!";
 
-const char D_08059fe8[] = "\nPress the A button too.";
+const char D_08059fe8[] = "\nAppuie aussi sur A.";
 
-const char D_0805a004[] = "\nPress the R button too.";
+const char D_0805a004[] = "\nAppuie aussi sur R.";
 
-const char D_0805a020[] = "\npress them simultaneously!";
+const char D_0805a020[] = "\nAppuie sur les deux ensemble.";
 
-const char D_0805a038[] = "\nDon't rush it!";
+const char D_0805a038[] = "\nTe pr‡Qcipite pas‡R!";
 
-const char D_0805a048[] = "\nYou were late";
+const char D_0805a048[] = "\nT'‡Qtais en retard.";
 
-const char D_0805a058[] = "\nFlawless!";
+const char D_0805a058[] = "\nTres bien‡R!";
 
-const char D_0805a06c[] = "\nPretty good!";
+const char D_0805a06c[] = "\nBien‡R!";
 
 // [D_089e1778] Rank Text
 const char *drum_lessons_rank_text[] = {
     /* RANK_0 */ "\n",
-    /* RANK_C */ "\nNot bad!",
-    /* RANK_B */ "\nYou're doin' pretty good!",
-    /* RANK_A */ "\nYeah! That was great!",
-    /* RANK_S */ "\nUnbelievable!",
+    /* RANK_C */ "\nPas mal‡R!",
+    /* RANK_B */ "\nTu t'en sors bien‡R!",
+    /* RANK_A */ "\nOui‡R! C'‡Qtait super‡R!",
+    /* RANK_S */ "\nParfait‡R!",
 };
 
-const char D_0805a0c0[] = "\nYou scored ";
+const char D_0805a0c0[] = "\nTon score‡R: ";
 
 const char D_0805a0c8[] = ".";
 
-const char D_0805a0cc[] = " points.";
+const char D_0805a0cc[] = " points";
 
 // [D_089e178c] Rank SFX
 struct SongHeader *drum_lessons_rank_sfx[] = {
