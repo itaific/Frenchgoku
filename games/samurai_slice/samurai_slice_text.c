@@ -21,7 +21,7 @@ const char D_0805bd50[] = "Les plus lents ne vous ont pas fait flancher⑲!";
 
 const char D_0805bd68[] = "　　　Ｓｌｉｃｅ　ｔｈｅ　ｅｎｅｍｉｅｓ！";
 
-const char D_0805bd7c[] = "Ｈｍ．．．";
+const char D_0805bd7c[] = "Ｈｕｍ．．．";
 
 const char D_0805bd88[] = "Ｉｔ’ｓ　ｇｅｔｔｉｎｇ　ｆｏｇｇｙ．．．";
 

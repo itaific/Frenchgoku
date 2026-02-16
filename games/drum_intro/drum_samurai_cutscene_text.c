@@ -29,7 +29,7 @@ const char D_0805e000[] =
 
 const char D_0805e03c[] =
     "Et avec de l'entraˆ²nement,\n"
-    "ce mˆ®me sens peut s'affuter\n"
+    "ce mˆ®me sens peut s'affˆ½ter\n"
     "comme n'importe quel talent.";
 
 const char D_0805e070[] =
@@ -47,9 +47,10 @@ const char D_0805e0a8[] =
     "";
 
 const char D_0805e0d8[] =
-    "Dans tous les cas, votre sens\n"
-    "du ryhtme ne peut qu'aller de\n"
-    "l'avant si vous vous entraˆ²nez‡S!";
+    "Dans tous les cas, votre\n"
+    "sens du rythme ne peut\n"
+    "qu'aller de l'avant si\n"
+    "vous vous entraˆ²nez‡R!";
 
 const char D_0805e10c[] =
     "Jettez-vous dans ces\n"
