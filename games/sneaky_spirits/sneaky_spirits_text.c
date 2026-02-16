@@ -19,21 +19,21 @@ const char D_0805bb04[] = "Vous savez compter de t旭te⑲!";
 
 const char D_0805bb20[] = "M旭me au ralenti, c'⑱tait parfait⑲!";
 
-const char D_0805bb40[] = "Ｓｔｏｐ　ｔｈｏｓｅ　ｇｈｏｓｔｓ！";
+const char D_0805bb40[] = "Ａｒｒがｔｅｚ　ｃｅｓ　ｆａｎｔぞｍｅｓ　！";
 
-const char D_0805bb58[] = "Ｄｏｎ’ｔ　ｌｅｔ　ｔｈｅｍ　ｇｅｔ　ａｗａｙ！";
+const char D_0805bb58[] = "Ｕｔｉｌｉｓｅｚ　ｃｅｔ　ａｒｃ．";
 
-const char D_0805bb68[] = "Ｔｈｅ　ｔｉｍｉｎｇ　ｈａｓ　ｔｏ　ｂｅ．．．";
+const char D_0805bb68[] = "ｌｌ　ｆａｕｔ　ｔｉｒｅｒ．．．";
 
-const char D_0805bb78[] = "．．．ｐｅｒｆｅｃｔ！";
+const char D_0805bb78[] = "ｉｃｉ　！";
 
-const char D_0805bb88[] = "Ｗａｔｃｈ　ｃａｒｅｆｕｌｌｙ．";
+const char D_0805bb88[] = "Ｒｅｇａｒｄｅｚ　ｂｉｅｎ　！";
 
-const char D_0805bb9c[] = "Ｒｉｇｈｔ．．．";
+const char D_0805bb9c[] = "Ａｔｔｅｎｔｉｏｎ．．．";
 
-const char D_0805bb9D[] = "Ｎｏｗ！";
+const char D_0805bb9D[] = "Ｍａｉｎｔｅｎａｎｔ　！";
 
-const char D_0805bba8[] = "Ｔｉｍｅ　ｔｏ　ｓｔａｒｔ　ｔｈｅ　ｒｅａｌ　ｇａｍｅ．";
+const char D_0805bba8[] = "Ｃ’ｅｓｔ　ｐａｒｔｉ　！";
 
 const char D_0805bbc8[] = "Murmures sous la pluie";
 

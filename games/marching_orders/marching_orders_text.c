@@ -19,11 +19,11 @@ const char D_0805c7f4[] = "Very technically sound!";
 
 const char D_0805c80c[] = "Rapport du sergent";
 
-const char D_0805c818[] = "Ｇｏ！";
+const char D_0805c818[] = "Ｅｎ　ａｖａｎｔ　！";
 
-const char D_0805c828[] = "Ｆａｌｌ　ｉｎ！";
+const char D_0805c828[] = "ぅ　ｖｏｓ　ｒａｎｇｓ　！";
 
-const char D_0805c844[] = "Ｔｉｍｅ　ｆｏｒ　ｔｈｅ　ｒｅａｌ　ｔｈｉｎｇ！";
+const char D_0805c844[] = "Ｄｅ　ｌ’ｏｒｄｒｅ，　ｅｔ　ｄｕ　ｒｙｔｈｍｅ　！";
 
 const char D_0805c858[] = "Vous devez revoir les bases.";
 
@@ -35,19 +35,19 @@ const char D_0805c890[] = "Votre rythme ⑱tait au point⑲!";
 
 const char D_0805c8a8[] = "Rapport du sergent";
 
-const char D_0805c8b4[] = "Ｇｏ！";
+const char D_0805c8b4[] = "Ｅｎ　ａｖａｎｔ　！";
 
-const char D_0805c8c4[] = "Ｆａｌｌ　ｉｎ！";
+const char D_0805c8c4[] = "ぅ　ｖｏｓ　ｒａｎｇｓ　！";
 
-const char D_0805c8e0[] = "Ｔｉｍｅ　ｆｏｒ　ｔｈｅ　ｒｅａｌ　ｔｈｉｎｇ！";
+const char D_0805c8e0[] = "Ｄｅ　ｌ’ｏｒｄｒｅ，　ｅｔ　ｄｕ　ｒｙｔｈｍｅ　！";
 
-const char D_0805c8e1[] = "Ｒｉｇｈｔ！";
+const char D_0805c8e1[] = "Ｄｒｏｉｔｅ　！";
 
-const char D_0805c8e2[] = "Ｌｅｆｔ！";
+const char D_0805c8e2[] = "Ｇａｕｃｈｅ　！";
 
-const char D_0805c8e3[] = "Ｍａｒｃｈ！";
+const char D_0805c8e3[] = "Ｍａｒｃｈｅ　！";
 
-const char D_0805c8e4[] = "Ｈａｌｔ！";
+const char D_0805c8e4[] = "Ｈａｌｔｅ　！";
 
 const char D_0805c8f4[] = "Vous n'avez toujours pas les bases⑲!";
 

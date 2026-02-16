@@ -41,4 +41,4 @@ const char D_0805ccb8[] = "@@@@@@@@@@@@@@@@@@@@‚`‚‚‚•‚‰‚…
 
 const char D_0805ccb9[] = "‚f‚@I";
 
-const char D_0805ccc5[] = "‚q‚…‚‚„‚™@H";/*Pret ?*/
+const char D_0805ccc5[] = "‚o‚’‚ª‚”@H";
