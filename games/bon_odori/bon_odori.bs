@@ -730,25 +730,26 @@ script script_bon_odori_main
     spawn_cue CUE_SIDE_CLAP
     rest 8
     bon_odori_lyrics_print_left 1, text_bon_odori_korezo
+    bon_odori_lyrics_print_center 2, text_bon_odori_meido
     bon_odori_animate_npc ANIM_CLAP_F
     beat_anim
     rest 8
     rest 8
     bon_odori_animate_npc ANIM_CLAP_F
     rest 4
-    bon_odori_lyrics_clear_line 2
     bon_odori_lyrics_clear_line 3
     rest 4
     set_marking_criteria 2
-    bon_odori_lyrics_print_right 3, text_bon_odori_meido_in_japan
+    bon_odori_lyrics_print_right 3, text_bon_odori_in_japan
     bon_odori_lyrics_start_highlight 1, 45
     beat_anim
     rest 24
     rest 24
-    bon_odori_lyrics_start_highlight 3, 130
+    bon_odori_lyrics_start_highlight 2, 45
     beat_anim
     rest 24
     rest 24
+    bon_odori_lyrics_start_highlight 3, 65
     beat_anim
     rest 24
     spawn_cue CUE_FORWARD_CLAP

@@ -61,9 +61,11 @@ const char text_bon_odori_yagura_ni_agaru[] = ".0:0" "Ｇｒｉｍｐｏｎｓ　ｌａ　ｔ
 
 const char text_bon_odori_hora_matsuri_da_wasshoi[] = ".0:0" "Ｖｏｉｃｉ　ｎｏｔｒｅ　ｃぎｌぎｂｒａｔｉｏｎ　！";
 
-const char text_bon_odori_korezo[] = ".0:0" "Ｃｏｎｔぎｅ　ｄｅ　ｍｉｌｌｅ";
+const char text_bon_odori_korezo[] = ".0:0" "Ｃｏｎｔぎｅ　ｄｅ";
 
-const char text_bon_odori_meido_in_japan[] = ".0:0" "ｃｈａｎｓｏｎｓ　ｍａｄｅ　ｉｎ　Ｊａ" ".2" "ＰＡＮ";
+const char text_bon_odori_meido[] = ".0:0" "ｍｉｌｌｅ　ｃｈａｎｓｏｎｓ";
+
+const char text_bon_odori_in_japan[] = ".0:0" "ｍａｄｅ　ｉｎ　Ｊａ" ".2" "ＰＡＮ";
 
 const char text_bon_odori_pan_pan[] = ".2:0" "Ｐａｎ　ｐａｎ";
 
