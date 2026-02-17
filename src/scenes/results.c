@@ -777,7 +777,7 @@ s24_8 results_get_positive_comments(void) {
                     memcpy(commentsText, "Et ", 10); // ("moreover,")
                     break;
                 default:
-                    memcpy(commentsText, "En plus, ", 9); // ("also,")
+                    memcpy(commentsText, "En plus, ", 10); // ("also,")
                     break;
             }
             strcat(commentsText, modifiedComment);
