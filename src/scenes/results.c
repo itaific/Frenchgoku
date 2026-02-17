@@ -758,7 +758,7 @@ s24_8 results_get_positive_comments(void) {
                 modifiedComment[0] += 32;
             }
 
-            memcpy(commentsText, "...mais ", 8);
+            memcpy(commentsText, "...mais ", 9);
             strcat(commentsText, modifiedComment);
             anim = results_get_comment_anim(commentsText, TEXT_ANCHOR_BOTTOM_RIGHT, 3);
             palette = EXTRA_COMMENT_PALETTE;

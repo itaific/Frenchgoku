@@ -33,7 +33,7 @@ const char text_bon_odori_haa[] = ".0:0" "Ｈａ～　Ａｈ～";
 
 const char text_bon_odori_kansei_agaru[] = ".0:0" "Ｐａｒｔｏｕｔ　ｃｅ　ｓｅｒａ　ｌａ　ｊｏｉｅ";
 
-const char text_bon_odori_ninki_agare_ba[] = ".0:0" "Ｓｉ　ｎｏｕｓ　ｔｏｕｃｈｏｎｓ　ｔｏｕｓ　ｌｅｓ　ｃでｕｒｓ";
+const char text_bon_odori_ninki_agare_ba[] = ".0:0" "Ｓｉ　ｎｏｕｓ　ｔｏｕｃｈｏｎｓ　ｔｏｕｓ　ｌｅｓ　ばｕｒｓ";
 
 const char text_bon_odori_kyuryo_agaru[] = ".0:0" "Ｐｌｅｕｖｒｏｎｔ　ｒｉｃｈｅｓｓｅ　ｅｔ　ｂｏｎｈｅｕｒ";
 
@@ -45,7 +45,9 @@ const char text_bon_odori_nippon_chu_ga_wasshoi[] = ".0:0" "Ｄ’ｕｎｅ　ｇぎｎぎ
 
 const char text_bon_odori_don_don_pan[] = ".1:0" "Ｄｏｎ　ｄｏｎ　" ".2:0" "ｐａｎ";
 
-const char text_bon_odori_sore_hikkuri_kaette[] = ".0:0" "Ｆａｉｔｅｓ　ｄｅｍｉ－ｔｏｕｒ　ｅｔ　ｆｒａｐｐｅｚ";
+const char text_bon_odori_sore_hikkuri[] = ".0:0" "Ｍａｉｎｔｅｎａｎｔ　ｆａｉｔｅｓ　ｄｅｍｉ－ｔｏｕｒ";
+
+const char text_bon_odori_kaette[] = ".0:0" "ｅｔ　ｆｒａｐｐｅｚ　　　　　";
 
 const char text_bon_odori_ha_bon_odori[] = ".0:0" "Ｈａ～　Ｂｏｎ　Ｏｄｏｒｉ";
 
