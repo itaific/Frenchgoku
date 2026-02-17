@@ -2,19 +2,20 @@
 struct ReadingMaterial reading_material_table[] = {
     /* WELCOME ("Rhythm Tengoku Welcome") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Greetings",
+            "Salutations",
         /* BODY ----------------------------------------------------------- */
-            "Greetings!\n"
+            "Salutations‡R!\n"
             "\n"
-            "Thank you very much for purchasing\n"
+            "Nous vous remercions d'avoir achet‡Q\n"
             "Rhythm Paradise Advance.\n"
-            "Oh... you've borrowed it from a friend?\n"
-            "Or is it... s-secondhand?\n"
-            "Well, that's beside the point. The fact is, we're truly\n"
-            "honored that you've put your interest into this game.\n"
-            "It's been nice meeting you, and we hope this game\n"
-            "gives you joy and fulfillment for years to come!\n"
-            "Thank you very much!",
+            "Oh... un ami vous l'a prˆ®t‡Q‡R? Et... i-il est d'occasion‡R?!\n"
+            "Bref, nous sommes tr‡as honor‡Qs de voir\n"
+            "que vous vous ˆ®tes int‡Qress‡Q ‡g notre jeu‡R!\n"
+            "Nous sommes tr‡as heureux d'avoir fait votre\n"
+            "connaissance et esp‡Qrons que vous passerez\n"
+            "beaucoup de bons moments avec ce jeu et que\n"
+			"vous continuerez d'y jouer longtemps‡R!\n"
+            "Merci beaucoup‡R!",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_mail_gfx_table,
             /* BGM */ &reading_style_mail_bgm
@@ -23,15 +24,16 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* MANUAL ("Handling Instructions") */ {
         /* TITLE ---------------------------------------------------------- */
-            "How to play",
+            "Comment jouer",
         /* BODY ----------------------------------------------------------- */
-            "How to play the game:\n"
+            "Comment jouer‡R:\n"
             "\n"
-            "Well, this is a pretty straightforward game.\n"
-            "What can I really say...?\n"
-            "Oh, right, the idea is to play along to the music,\n"
-            "so try to feel the flow when you play. That's my advice!\n"
-            "And that's about it. Pleasure to meet you, by the way!",
+            "Eh bien, c'est un jeu assez simple ‡g comprendre.\n"
+            "Qu'est-ce que je peux dire...?\n"
+            "Ah, si‡R! L'id‡Qe c'est de jouer en rythme avec la\n"
+            "musique, alors laissez-vous porter par le rythme‡R!\n"
+			"C'est ˆ¹a, mon conseil.\n"
+            "Voil‡g c'est tout, heureux de vous rencontrer sinon‡R! ",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_cherry_gfx_table,
             /* BGM */ &reading_style_cherry_bgm
@@ -40,26 +42,29 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* CAFE ("More Than a Barista") */ {
         /* TITLE ---------------------------------------------------------- */
-            "From the Barista",
+            "Message du patron",
         /* BODY ----------------------------------------------------------- */
-            "I own and operate a Caf‡Q.\n"
-            "I guess you could call me the barista.\n"
-            "It's going well thanks to the regulars.\n"
-            "And, uh, just to let you know, I'm a dog.\n"
-            "Many of my customers love listening to music.\n"
-            "A lot of them have especially good rhythm,\n"
-            "and a few have even achieved a full set of Perfects!\n"
-            "I'm always amazed by them!\n"
-            "I may look all professional when I run my Caf‡Q,\n"
-            "but I'll be honest, I'm really putting on a front.\n"
-            "See, it's a little embarrassing, but when I'm off the\n"
-            "clock, I'm always jamming out with these little\n"
-            "dog-sized headphones! What can I say?\n"
-            "I need a little flow wherever I go.\n"
-            "It's complicated. Heh...\n"
-            "I do go out from time to time, so if you happen to\n"
-            "run into me... please pet me!\n"
-            "See you around.",
+            "Je suis propri‡Qtaire et g‡Qrant d'un caf‡Q.\n"
+            "J'imagine qu'on dire que je suis le patron ici.\n"
+            "En tout cas, ˆ¹a tourne bien gr‡uce aux habitu‡Qs.\n"
+            "Et heu, si vous vous demandez... oui, je suis un chien.\n"
+            "J'ai beaucoup de clients qui aiment ‡Qcouter\n"
+            "de la musique. La plupart ont d'ailleurs un excellent\n"
+            "sens du rythme, et certains d'entre eux ont mˆ®me\n"
+            "r‡Qussi ‡g obtenir tous les Parfaits‡R!\n"
+            "Ils ne cessent de m'impressionner.\n"
+            "J'ai peut-ˆ®tre l'air professionnel derri‡are mon\n"
+            "comptoir, mais pour ˆ®tre honnˆ®te,\n"
+			"c'est juste une apparence.\n"
+            "C'est un peu embarassant mais...\n"
+            "quand je ne travaille pas, je suis constamment plong‡Q\n"
+            "dans ma musique, avec mes ‡Qcouteurs pour chien.\n"
+            "H‡Q, on se refait pas‡R!\n"
+			"J'ai toujours besoin d'un son pour m'accompagner.\n"
+            "C'est comme ˆ¹a, ahah‡R!\n"
+            "D'ailleurs ˆ¹a m'arrive de sortir de temps en temps.\n"
+			"Si vous me croisez, s'il vous plaˆ²t, caressez-moi‡R!\n"
+            "‡f bientˆ¶t‡R!",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_train_gfx_table,
             /* BGM */ &reading_style_train_bgm
@@ -68,21 +73,25 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* RHYTHM_TWEEZERS ("Letter to the Editor") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Plucking Letter",
+            "Lettre ‡Qpil‡Qe",
         /* BODY ----------------------------------------------------------- */
-            "I'm an old gentleman who maintains a vegetable\n"
-            "farm. So, one day, all my vegetables just started\n"
-            "growing hair!\n"
-            "It was so creepy! I couldn't sell them like that!\n"
-            "I tried plucking the hairs, but I just couldn't get them\n"
-            "all nice and smooth like a vegetable ought to be.\n"
-            "Well, to lighten up the mood, I put on some music.\n"
-            "Before I knew it, I found myself plucking to the beat.\n"
-            "And... I plucked them clean! And it's even a little fun!\n"
-            "The power of music is really something else!\n"
-            "You've got to try plucking hairs off of your\n"
-            "vegetables!\n"
-            "I can't recommend it enough!",
+            "Je suis un vieux monsieur qui tient un potager.\n"
+            "R‡Qcemment, tous mes l‡Qgumes se sont mis\n"
+            "‡g avoir des poils‡R! J'en avais peur‡R!\n"
+            "Et je ne pouvais mˆ®me pas les vendre‡R!\n"
+			"J'ai tent‡Q de les ‡Qpiler,\n"
+            "mais impossible de leur rendre la\n"
+            "peau douce comme ils ‡Qtaient avant.\n"
+			"Et puis, pour me changer les id‡Qes,\n"
+            "j'ai mis de la musique.\n"
+			"Et croyez-le ou non‡R: avant de\n"
+            "m'en rendre compte, j'‡Qpilais mes l‡Qgumes en rythme.\n"
+            "Et cette fois, ils ‡Qtaient tout lisses‡R!\n"
+			"C'‡Qtait mˆ®me plutˆ¶t amusant‡R!\n"
+            "Le pouvoir de la musique, c'est\n"
+            "vraiment quelque chose. Vous aussi, vous devriez\n"
+			"essayer d'‡Qpiler vos l‡Qgumes‡R!\n"
+            "Je recommande‡R!",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_train_gfx_table,
             /* BGM */ &reading_style_train_bgm
@@ -91,34 +100,35 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* NIGHT_WALK ("Night Walk Riddle") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Night Walk Information",
+            "Bulletin nocturne",
         /* BODY ----------------------------------------------------------- */
-            "There's this strange fellow who you might recognize\n"
-            "from Night Walk. He seems to really love music.\n"
-            "Apparently he's worked with music before,\n"
-            "and landed a role in this game through connections.\n"
-            "I ran into him in the city one time. All he said was\n"
-            "\"I love music!\", and just disappeared up some stairs.\n"
-            "I wonder if I'll ever meet that music-loving guy again.\n"
-            "Come to think of it, I don't even know his name...\n"
+            "Vous avez reconnu ce petit bonhomme du mini-jeu\n"
+            "á‡RBalade nocturne‡Râ‡R? Il a l'air d'ˆ®tre obs‡Qd‡Q par\n"
+            "la musique. Apparemment il travaille dedans, et aurait\n"
+            "eu un rˆ¶le dans ce jeu via certaines relations.\n"
+            "Je l'ai crois‡Q en ville l'autre soir, il m'a juste dit\n"
+            "á‡RJ'adore la musique‡R!‡Râ et il s'est volatilis‡Q\n"
+			"en haut d'un escalier.\n"
+            "J'esp‡are le revoir un jour... Quand j'y pense, je ne\n"
+            "sais mˆ®me pas comment il s'appelle...\n"
             "\n"
-            "Okay, time for a quiz!\n"
-            "His name is...\n"
+            "Voici une question pour vous‡R!\n"
+            "Comment s'appelle-t-il‡R?\n"
             "\n"
             "\001C" "\0031" "\001m" "‡@‡A‡B‡C-‡C‡B‡D\n"
             "\001L" "\0030" "\001s" "\n"
-            "Answer which letters go in each of the numbers!\n"
-            "If you answer correctly, you'll be able to read the\n"
-            "following text!\n"
+            "Trouvez quelle lettre remplace quel chiffre,\n"
+            "et vous serez capable de lire son nom‡R!\n"
+            "Le texte suivant pourrait vous aider...\n"
             "\n"
-            "\n"
-            "\0031" "\001m" "\001C" "Quiz Show's Secret\n\n"
+            "\0031" "\001m" "\001C" "Secret du mini-jeu\n"
+            "\0031" "\001m" "\001C" "á Question de rythme â\n"
             "\0030" "\001s" "\001C" "\n"
-            "In this g" "\0031" "\001m" "‡B" "\0030" "\001s" "me, the" "\0031" "\001m" "‡@‡A‡B‡C" "\0030" "\001s" "er has to m" "\0031" "\001m" "‡B" "\0030" "\001s" "tch\n"
-            "\0030" "\001s" "the host's " "\0031" "\001m" "‡D" "\0030" "\001s" "umber of button " "\0031" "\001m" "‡@" "\0030" "\001s" "resses. But\n"
-            "\0030" "\001s" "if you mash the butto" "\0031" "\001m" "‡D" "\0030" "\001s" "s rea" "\0031" "\001m" "‡A‡A" "\0030" "\001s" "y f" "\0031" "\001m" "‡B" "\0030" "\001s" "st instead,\n"
-            "\0030" "\001s" "somethi" "\0031" "\001m" "‡D" "\0030" "\001s" "g interesting can h" "\0031" "\001m" "‡B" "\0030" "\001s" "ppen.\n"
-            "\0030" "\001s" "It's nothing crazy or an" "\0031" "\001m" "‡C" "\0030" "\001s" "thing, but it's neat!",
+            "D" "\0031" "\001m" "‡B" "\0030" "\001s" "ns ce mini-jeu, le joueur doit a" "\0031" "\001m" "‡@" "\0030" "\001s" "pu" "\0031" "\001m" "‡C" "\0030" "\001s" "er\n"
+            "\0030" "\001s" "sur " "\0031" "\001m" "‡A" "\0030" "\001s" "es boutons auta" "\0031" "\001m" "‡D" "\0030" "\001s" "t de fois que le\n"
+            "\0030" "\001s" "pr‡Qse" "\0031" "\001m" "‡D" "\0030" "\001s" "tateur. Mais s'il matr" "\0031" "\001m" "‡B" "\0030" "\001s" "que les boutons\n"
+            "\0030" "\001s" "tr‡as tr‡as vite ‡g la " "\0031" "\001m" "‡@‡A‡B" "\0030" "\001s" "ce, que" "\0031" "\001m" "‡A" "\0030" "\001s" "que chose\n"
+            "\0030" "\001s" "d'int‡Qressa" "\0031" "\001m" "‡D" "\0030" "\001s" "t pourrait se " "\0031" "\001m" "‡@" "\0030" "\001s" "roduire‡R!",
         /* STYLE ---------------------------------------------------------- */
             /* GFX */ reading_style_train_gfx_table,
             /* BGM */ &reading_style_train_bgm
