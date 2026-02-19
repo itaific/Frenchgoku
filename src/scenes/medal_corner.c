@@ -83,12 +83,12 @@ void medal_corner_init_counters(void) {
     u32 totalMedals;
 
     totalMedals = D_030046a8->data.totalMedals;
-    gMedalCorner->medalCountDigit1 = sprite_create(gSpriteHandler, anim_medal_corner_count_num, 0, 157, 151, 0x800, 0, 0x7F, 0);
+    gMedalCorner->medalCountDigit1 = sprite_create(gSpriteHandler, anim_medal_corner_count_num, 0, 169, 151, 0x800, 0, 0x7F, 0);
     gMedalCorner->medalCountDigit2 = sprite_clone(gSpriteHandler, gMedalCorner->medalCountDigit1);
-    sprite_set_x(gSpriteHandler, gMedalCorner->medalCountDigit2, 150);
+    sprite_set_x(gSpriteHandler, gMedalCorner->medalCountDigit2, 162);
     sprite_set_anim_cel(gSpriteHandler, gMedalCorner->medalCountDigit1, totalMedals % 10);
     sprite_set_anim_cel(gSpriteHandler, gMedalCorner->medalCountDigit2, (totalMedals >= 10) ? totalMedals / 10 : 10);
-    sprite_set_x(gSpriteHandler, gMedalCorner->medalCountDigit1, (totalMedals < 10) ? 153 : 157);
+    sprite_set_x(gSpriteHandler, gMedalCorner->medalCountDigit1, (totalMedals < 10) ? 165 : 169);
 
     gMedalCorner->reqCountDigit1 = sprite_create(gSpriteHandler, anim_medal_corner_req_num, 0, 58, 142, 0x800, 0, 0x7F, 0);
     gMedalCorner->reqCountDigit2 = sprite_clone(gSpriteHandler, gMedalCorner->reqCountDigit1);
