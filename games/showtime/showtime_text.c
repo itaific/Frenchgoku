@@ -5,11 +5,11 @@
 /* Game Text - Showtime */
 
 
-const char D_0805e180[] = "They're not very happy.";
+const char D_0805e180[] = "Ils ne sont pas tr‡as contents.";
 
-const char D_0805e194[] = "They're pretty pleased!";
+const char D_0805e194[] = "Ils sont ravis‡R!";
 
-const char D_0805e1a8[] = "The penguins' moods...";
+const char D_0805e1a8[] = "Humeur des pingouins";
 
 const char D_0805e1bc[] = "‚h‚”f‚“@‚“‚ˆ‚‚—‚”‚‰‚‚…I";
 
@@ -23,7 +23,7 @@ const char D_0805e21c[] = "‚P";
 
 const char D_0805e220[] = "‚Q";
 
-const char D_0805e224[] = "‚f‚nI";
+const char D_0805e224[] = "‚f‚@I";
 
 const char D_0805e22c[] = "‚k‚…‚”f‚“@‚‚‚–‚…@‚‚DDD";
 

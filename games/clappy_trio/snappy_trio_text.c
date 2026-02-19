@@ -5,16 +5,16 @@
 /* Game Text - The Snappy Trio */
 
 
-const char D_08067bc4[] = "Not exactly our best show...";
+const char D_08067bc4[] = "Ce n'‡Qtait pas notre meilleur spectacle...";
 
-const char D_08067bdc[] = "That was an awesome show!";
+const char D_08067bdc[] = "C'‡Qtait un superbe spectacle‡R!";
 
-const char D_08067bf4[] = "The slow parts gave you a bit of trouble.";
+const char D_08067bf4[] = "Les passages lents n'‡Qtaient pas au top...";
 
-const char D_08067c1c[] = "You got the slow parts pretty well!";
+const char D_08067c1c[] = "Les passages lents ‡Qtaient parfaits‡R!";
 
 const char D_08067c40[] = "";
 
-const char D_08067c44[] = "You got THAT part down! Impressive!";
+const char D_08067c44[] = "Vous avez mˆ®me r‡Qussi CE passage‡R! Wow‡R!";
 
-const char D_08067c74[] = "Peer Review";
+const char D_08067c74[] = "Commentaire du trio";

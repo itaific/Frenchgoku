@@ -3,7 +3,7 @@ struct LevelData level_data_table[] = {
     /* KARATE_MAN */ {
         /* Entry Scene   */ &scene_karate_man,
         /* Level Name    */ "KaratáQka",
-        /* Level Desc.   */ "Il faut du rythme,\n"
+        /* Level Desc.   */ "Il faut du rythme\n"
                             "pour un beau karatáQ.\n"
                             "Faites parler vos\n"
                             "poings en cadenceáR!",
@@ -27,9 +27,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_karate_man_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "What's the point of these speed switchups, anyway!?", /* TODO: Trad */
-            /* OK        */ "Well, that's that. Let's eat!", /* TODO: Trad */
-            /* SUPERB    */ "I think we went through everything!" /* TODO: Trad */
+            /* TRY_AGAIN */ "Je n'arrive pas ág garder la cadence...",
+            /* OK        */ "àªa fera l'affaire. Maintenant, ág tableáR!",
+            /* SUPERB    */ "Et voilág le travailáR!"
         }
     },
     /* CLAPPY_TRIO */ {
@@ -60,7 +60,7 @@ struct LevelData level_data_table[] = {
         /* Epilogue GFX  */ epilogue_snappy_trio_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "C'est l'inconváQnient de jouer dans un western...",
-            /* OK        */ "Es-tu sur de vouloir devenir un parfait clappeuráR?", /* TODO: s?r */
+            /* OK        */ "Es-tu sàΩr de vouloir devenir un parfait clappeuráR?",
             /* SUPERB    */ "On est encore meilleurs avec ces costumesáR!"
         }
     },
@@ -75,7 +75,7 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_polyrhythm_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "La production de masse s'aváare plus difficile que práQvue...",
+            /* TRY_AGAIN */ "La production de masse s'aváare plus dure que práQvue.",
             /* OK        */ "On arrive ág en produire de plus en plusáR!",
             /* SUPERB    */ "On en a produit plus qu'on ne peut en stockeráR!"
         }
@@ -84,7 +84,7 @@ struct LevelData level_data_table[] = {
         /* Entry Scene   */ &scene_polyrhythm_2,
         /* Level Name    */ "Polyrythme 2",
         /* Level Desc.   */ "La production de\n"
-                            "bidules accáQláareáR!\n"
+                            "bidules s'accáQláareáR!\n"
                             "áPvitez de prendre\n"
                             "du retardáR!",
         /* Level Icon    */ 51,
@@ -115,10 +115,10 @@ struct LevelData level_data_table[] = {
     /* NIGHT_WALK_2 */ {
         /* Entry Scene   */ &scene_night_walk_2,
         /* Level Name    */ "Balade nocturne 2",
-        /* Level Desc.   */ "Quelle belle nuit...\n"
+        /* Level Desc.   */ "Quelle douce nuit...\n"
                             "mais attention\n"
                             "aux poissons\n"
-                            "?lectriquesáR!",
+                            "áQlectriquesáR!",
         /* Level Icon    */ 41,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_night_walk_2_gfx_tables,
@@ -141,7 +141,7 @@ struct LevelData level_data_table[] = {
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Je ne peux màÆme pas les vendreáR!",
             /* OK        */ "Pourquoi mes oignons sont-ils poilusáR?",
-            /* SUPERB    */ "So fresh and clean! Even the air tastes delicious!" /* TODO: Trad */
+            /* SUPERB    */ "Voilág une ráQcolte d'oignons au poiláR!"
         }
     },
     /* RHYTHM_TWEEZERS_2 */ {
@@ -156,7 +156,7 @@ struct LevelData level_data_table[] = {
         /* Epilogue GFX  */ epilogue_rhythm_tweezers_2_gfx_tables,
         /* Epilogue Text */ {
             /* TRY_AGAIN */ "Pourquoi il faut qu'ils soient si poilus...áR?",
-            /* OK        */ "Pourquoi suis-je le seul qui fait pousser des oignons poilusáR?",
+            /* OK        */ "Pourquoi suis-je le seul ág avoir des oignons poilusáR?",
             /* SUPERB    */ "Il n'y a plus un poil ág l'horizonáR!"
         }
     },
@@ -180,16 +180,16 @@ struct LevelData level_data_table[] = {
         /* Entry Scene   */ &scene_bouncy_road,
         /* Level Name    */ "Tempo máQcano",
         /* Level Desc.   */ "Ces petites balles\n"
-                            "attendent un coup de\n"
-                            "pouce de votre part pour\n"
+                            "auraient besoin d'un\n"
+                            "coup de pouce pour\n"
 							"arriver ág destination.",
         /* Level Icon    */ 12,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_bouncy_road_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Ow! That was hard...",
-            /* OK        */ "Nice combo!",
-            /* SUPERB    */ "Where's the challenge?"
+            /* TRY_AGAIN */ "On a eu un coup de pompe...",
+            /* OK        */ "Rien de tel qu'une máQcanique bien synchronisáQeáR!",
+            /* SUPERB    */ "Pas besoin de piston... C'est tellement facileáR!"
         }
     },
     /* BOUNCY_ROAD_2 */ {
@@ -203,9 +203,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_bouncy_road_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Ow! We failed!",
-            /* OK        */ "We're working our hardest!",
-            /* SUPERB    */ "Easy come, easy go."
+            /* TRY_AGAIN */ "C'est la catastropheáR!",
+            /* OK        */ "On travaille duráR!",
+            /* SUPERB    */ "Les doigts dans le nezáR!"
         }
     },
     /* NINJA_BODYGUARD */ {
@@ -214,14 +214,14 @@ struct LevelData level_data_table[] = {
         /* Level Desc.   */ "Votre seigneur est la\n"
                             "cible du clan ennemiáR!\n"
                             "Bloquez les fláaches\n"
-							"en alternant áO et áMáR!",
+							"en alternant áM et áOáR!",
         /* Level Icon    */ 5,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_ninja_bodyguard_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "My lord has fainted! Nooooo!",
-            /* OK        */ "I cannot apologize enough, my lord!",
-            /* SUPERB    */ "Not a scratch!"
+            /* TRY_AGAIN */ "MonseigneuráR! NooonnnáR!",
+            /* OK        */ "Je vous prie de m'excuser, MonseigneuráR!",
+            /* SUPERB    */ "Inutile de me remercier, MonseigneuráR!"
         }
     },
     /* NINJA_REINCARNATE */ {
@@ -235,9 +235,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_ninja_reincarnate_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "You can't give up now! We're counting on you!",
-            /* OK        */ "You are... strong. Don't give up yet.",
-            /* SUPERB    */ "You have proven your worth! You have our blessing..."
+            /* TRY_AGAIN */ "N'abandonne pasáR! Elle compte sur toiáR!",
+            /* OK        */ "Tu es fort. N'abandonne pas en si bon chemin.",
+            /* SUPERB    */ "Tu as prouváQ ta valeur. Reàπois ma báQnáQdiction."
         }
     },
     /* SNEAKY_SPIRITS */ {
@@ -245,31 +245,31 @@ struct LevelData level_data_table[] = {
         /* Level Name    */ "Esprits espiáagles",
         /* Level Desc.   */ "Ces ectoplasmes se\n"
                             "moquent de vousáR!\n"
-                            "Faites-leur tater\n"
+                            "Faites-leur táuter\n"
                             "de vos fláachesáR!",
         /* Level Icon    */ 1,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_sneaky_spirits_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Escaped ghosts are nothing but trouble.",
-            /* OK        */ "This one's not going anywhere!",
-            /* SUPERB    */ "No ghost escapes on your watch!"
+            /* TRY_AGAIN */ "Il est revenu pour se vengeráR!",
+            /* OK        */ "Vous l'avez arràÆtáQáR!",
+            /* SUPERB    */ "Vous en avez arràÆtáQ pleináR!"
         }
     },
     /* SNEAKY_SPIRITS_2 */ {
         /* Entry Scene   */ &scene_sneaky_spirits_2,
         /* Level Name    */ "Esprits espiáagles 2",
-        /* Level Desc.   */ "Those spirits are\n"
-                            "acting up again!\n"
-                            "Let them have it,\n"
-                            "archery style!",
+        /* Level Desc.   */ "Ces spectres ont plus\n"
+                            "d'un tour sous leurs\n"
+                            "drapsáR! Ne vous\n"
+                            "laissez pas avoiráR!",
         /* Level Icon    */ 53,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_sneaky_spirits_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Gah! They slipped right past you!",
-            /* OK        */ "\"L-Let me go! Please!\"",
-            /* SUPERB    */ "You ghosts stay and think about what you've done!"
+            /* TRY_AGAIN */ "SaperlotteáR! Ils vous ont áQchappáQáR!",
+            /* OK        */ "Å·áRS'il vous plaà≤t, ayez pitiáQáR!áRÅ‚",
+            /* SUPERB    */ "Vous allez ráQfláQchir ág ce que vous avez faitáR!"
         }
     },
     /* SAMURAI_SLICE */ {
@@ -283,9 +283,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_samurai_slice_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "I've broken my blade!",
-            /* OK        */ "I shall push myself harder!",
-            /* SUPERB    */ "Have you ever seen a sword this sharp?"
+            /* TRY_AGAIN */ "Mon sabre s'est brisáQáR!",
+            /* OK        */ "Je dois devenir encore plus fortáR!",
+            /* SUPERB    */ "A-t-on dáQjág vu une lame aussi tranchanteáR?"
         }
     },
     /* SPACEBALL */ {
@@ -299,9 +299,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_spaceball_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Can I have my ball back? I'll give you my last rice ball...",
-            /* OK        */ "Must... train... harder...",
-            /* SUPERB    */ "I won first \"space\"!"
+            /* TRY_AGAIN */ "Mes hommages, cher voisin... Vous voulez un onigiriáR?",
+            /* OK        */ "Je dois... encore... m'entraà≤neráR!",
+            /* SUPERB    */ "Vous àÆtes le roi du Å·áRspace runáRÅ‚áR!"
         }
     },
     /* SPACEBALL_2 */ {
@@ -315,9 +315,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_spaceball_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Next time, swing your bat somewhere else!",
-            /* OK        */ "I can't give up now!",
-            /* SUPERB    */ "Guys, guys, look at what I've won!"
+            /* TRY_AGAIN */ "Faites attention, bon sangáR!",
+            /* OK        */ "Je n'abandonnerai pasáR!",
+            /* SUPERB    */ "Tout le mondeáR! Regardez ce que j'ai gagnáQáR!"
         }
     },
     /* TAP_TRIAL */ {
@@ -331,9 +331,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_tap_trial_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Gotta tap out.",
-            /* OK        */ "You were ALMOST as good as a monkey...",
-            /* SUPERB    */ "Tap loves you too, Giraffe!"
+            /* TRY_AGAIN */ "J'en ai ma claque des claquettesáR!",
+            /* OK        */ "Pour une humaine, c'est excellentáR!",
+            /* SUPERB    */ "Nous ne serions rien sans notre plus grande fanáR!"
         }
     },
     /* TAP_TRIAL_2 */ {
@@ -347,9 +347,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_tap_trial_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Looks like we tapped TOO hard!",
-            /* OK        */ "Hey... Where'd our rhythm go?",
-            /* SUPERB    */ "Monkeys are the key to tappiness!"
+            /* TRY_AGAIN */ "Oh, nonáR! J'ai donnáQ un coup de talon dans la vitre...",
+            /* OK        */ "Claquettes ou pas claquettes... Telle est la question...",
+            /* SUPERB    */ "Tu es devenue l'áQgale des plus grands singesáR!"
         }
     },
     /* MARCHING_ORDERS */ {
@@ -363,9 +363,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_marching_orders_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Wait! You left without us!",
-            /* OK        */ "Today's mission: Cleaning. ",
-            /* SUPERB    */ "Mission success! We rescued the alien!"
+            /* TRY_AGAIN */ "áf l'aideáR! Ne partez pas sans nousáR!",
+            /* OK        */ "Mission du jouráR: nettoyageáR!",
+            /* SUPERB    */ "Un alien sauváQ, et une mission ráQussieáR!"
         }
     },
     /* MARCHING_ORDERS_2 */ {
@@ -379,9 +379,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_marching_orders_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "This is unacceptable...",
-            /* OK        */ "I know we can perform better than that!",
-            /* SUPERB    */ "Now THIS is a reward!"
+            /* TRY_AGAIN */ "Tout bonnement inacceptable...",
+            /* OK        */ "Il va falloir faire mieux que àπaáR!",
+            /* SUPERB    */ "J'ai áQtáQ promu pilote lapináR!"
         }
     },
     /* WIZARDS_WALTZ */ {
@@ -390,14 +390,14 @@ struct LevelData level_data_table[] = {
         /* Level Desc.   */ "Il suffit d'un peu de\n"
                             "magie et de rythme\n"
                             "pour redonner le\n"
-                            "sourire a une enfantáR!",
+                            "sourire ág une enfantáR!",
         /* Level Icon    */ 23,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_wizards_waltz_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "... I'm scared!",
-            /* OK        */ "These will look SO lovely when they bloom!",
-            /* SUPERB    */ "Who could feel lonely with all these flowers?"
+            /* TRY_AGAIN */ "...J'ai peuráR!",
+            /* OK        */ "Elles seront si jolie apráas avoir áQclosáR!",
+            /* SUPERB    */ "Comment me sentir seule avec toutes ces fleursáR?"
         }
     },
     /* BUNNY_HOP */ {
@@ -411,9 +411,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_bunny_hop_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "I'm not sure I thought this through...",
-            /* OK        */ "Didn't quite stick the landing...",
-            /* SUPERB    */ "A perfect landing! Who needs rockets?!"
+            /* TRY_AGAIN */ "Je ne demande pourtant pas la Lune...",
+            /* OK        */ "L'important, c'est l'alunissage.",
+            /* SUPERB    */ "Je dáQclare la Lune Å·áRplanáate carotteáRÅ‚áR!"
         }
     },
     /* FIREWORKS */ {
@@ -427,9 +427,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_fireworks_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Cough, cough... I think I blew it...",
-            /* OK        */ "That wasn't half bad!",
-            /* SUPERB    */ "I am THE go-to fireworks guy!"
+            /* TRY_AGAIN */ "Kof kof... J'ai tout fait páQter...",
+            /* OK        */ "C'áQtait pas maláR!",
+            /* SUPERB    */ "Pour les feux d'artifice, vous pouvez compter sur moiáR!"
         }
     },
     /* POWER_CALLIGRAPHY */ {
@@ -443,9 +443,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_power_power_calligraphy_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Maybe I should stick with pencils...",
-            /* OK        */ "Precision! Grace! What's not to like?",
-            /* SUPERB    */ "Woo! Calligraphy party!"
+            /* TRY_AGAIN */ "Pfiou... àªa ne va pas du tout.",
+            /* OK        */ "Amusons-nous avec le pinceauáR!",
+            /* SUPERB    */ "La calligraphie, c'est vraiment amusantáR!"
         }
     },
     /* POWER_CALLIGRAPHY_2 */ {
@@ -475,9 +475,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_toss_boys_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "We've been tossed out!",
-            /* OK        */ "Next time, we'll toss better than the best!",
-            /* SUPERB    */ "Toss World Championship, here we come!"
+            /* TRY_AGAIN */ "C'áQtait pas fou du toutáR!",
+            /* OK        */ "On est capables de mieuxáR!",
+            /* SUPERB    */ "Championnat Mondial du Ballon, nous voilágáR!"
         }
     },
     /* TOSS_BOYS_2 */ {
@@ -491,9 +491,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_toss_boys_2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Our spirits have been deflated...",
-            /* OK        */ "We still have a long way to go!",
-            /* SUPERB    */ "Three cheers for our star tosser!"
+            /* TRY_AGAIN */ "Notre moral est au plus bas...",
+            /* OK        */ "La route est encore longueáR!",
+            /* SUPERB    */ "Notre trio, c'est de la balleáR!"
         }
     },
     /* RAT_RACE */ {
@@ -507,9 +507,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_rat_race_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "I guess we could try to eat the plate...",
-            /* OK        */ "You know, I really like cheese. Like, a LOT.",
-            /* SUPERB    */ "We'll have to start a family to eat all this!"
+            /* TRY_AGAIN */ "Il ne reste plus que les trous...",
+            /* OK        */ "On raffole du fromageáR!",
+            /* SUPERB    */ "Oubliez Mme Mousstasch et ráQgalez-vousáR!"
         }
     },
     /* TRAM_PAULINE */ {
@@ -523,9 +523,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_tram_pauline_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "We've transformed the show into a failure!",
-            /* OK        */ "At least we only messed up half the show...",
-            /* SUPERB    */ "We're the perfect duo!"
+            /* TRY_AGAIN */ "On a transformáQ ce spectacle en humiliationáR!",
+            /* OK        */ "Au moins, on a ratáQ qu'ág moitiáQ...",
+            /* SUPERB    */ "Il n'y a pas meilleur duoáR!"
         }
     },
     /* SHOWTIME */ {
@@ -539,9 +539,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_showtime_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "We've betrayed our audience...",
-            /* OK        */ "I know we're capable of more than this...",
-            /* SUPERB    */ "They loved us out there!"
+            /* TRY_AGAIN */ "Nous avons dáQàπu tout le public...",
+            /* OK        */ "Je sais qu'on est capable de faire mieux...",
+            /* SUPERB    */ "YoupiáR! Le public a adoráQáR!"
         }
     },
     /* SPACE_DANCE */ {
@@ -555,9 +555,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_space_dance_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Our despair has lead us into a black hole!",
-            /* OK        */ "Let us aim for the stars!",
-            /* SUPERB    */ "We are space superstars!"
+            /* TRY_AGAIN */ "Au fond du trou... noir tombons nousáR!",
+            /* OK        */ "Comme des Å·áRáQtoilesáRÅ‚ brillerons nous.",
+            /* SUPERB    */ "N'atteint personne la choráQgraphie de notre sensáR!"
         }
     },
     /* COSMIC_DANCE */ {
@@ -571,25 +571,25 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_cosmic_dance_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "We cannot go on like THIS!",
-            /* OK        */ "Is that the best you guys can do?",
-            /* SUPERB    */ "We are cosmic superstars!"
+            /* TRY_AGAIN */ "ArràÆtez le massacreáR!",
+            /* OK        */ "C'est tout ce que vous avezáR?",
+            /* SUPERB    */ "Nous sommes des superstars cosmiquesáR!"
         }
     },
     /* RAP_MEN */ {
         /* Entry Scene   */ &scene_rap_men,
         /* Level Name    */ "Mecs du rap",
-        /* Level Desc.   */ "The coolest rapping\n"
-                            "duo has arrived! Their\n"
-                            "hot rapping skills are\n"
-                            "the talk of the town!",
+        /* Level Desc.   */ "Les rappeurs sont\n"
+                            "dans la placeáR!\n"
+                            "Essayez d'adopter\n"
+                            "la cool attitudeáR!",
         /* Level Icon    */ 42,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_rap_men_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "We need more practice...",
-            /* OK        */ "I think our tone was off.",
-            /* SUPERB    */ "We're looking forward to hearing you again!"
+            /* TRY_AGAIN */ "On a áQtáQ tellement nuls...",
+            /* OK        */ "Je crois qu'on áQtait un peu faux.",
+            /* SUPERB    */ "Háute de t'entendre ág nouveauáR!"
         }
     },
     /* RAP_WOMEN */ {
@@ -603,9 +603,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_rap_women_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "No... This isn't right.",
-            /* OK        */ "I know we can rap better than this!",
-            /* SUPERB    */ "Yes, yes, YES! We've got it!"
+            /* TRY_AGAIN */ "Non... On n'y est pas...",
+            /* OK        */ "Je sais qu'on peut rapper mieux que àπaáR!",
+            /* SUPERB    */ "Yes, yes, YESáR! On a tout dáQchiráQáR!"
         }
     },
     /* QUIZ_SHOW */ {
@@ -619,9 +619,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_quiz_show_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "I can do better... I can do better...",
-            /* OK        */ "I have to study... for next time... Zzz...",
-            /* SUPERB    */ "I won the grand prize! A world tour!"
+            /* TRY_AGAIN */ "Vous ne pouviez compter que sur vous-màÆme...",
+            /* OK        */ "Je dois bosser... pour la prochaine fois... Grrr...",
+            /* SUPERB    */ "J'ai remportáQ le grand prixáR! Un tour du mondeáR!"
         }
     },
     /* BON_ODORI */ {
@@ -635,25 +635,25 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_bon_odori_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "I feel so cold...",
-            /* OK        */ "Oh... the quaint fizzle of a sparkler...",
-            /* SUPERB    */ "That was so much fun! I can't wait for next year!"
+            /* TRY_AGAIN */ "J'ai si froid...",
+            /* OK        */ "Oh, un cierge magique...",
+            /* SUPERB    */ "C'áQtait palpitantáR! Vivement l'annáQe prochaineáR!"
         }
     },
     /* BON_DANCE */ {
         /* Entry Scene   */ &scene_bon_dance,
         /* Level Name    */ "LaÅôBon Dance",
         /* Level Desc.   */ "Le Bon Odori est\n"
-                            "de retour, faites\n"
+                            "de retouráR! Faites\n"
                             "de ce festival\n"
                             "une ráQussiteáR!",
         /* Level Icon    */ 17,
         /* Level Type    */ LEVEL_TYPE_GAME,
         /* Epilogue GFX  */ epilogue_bon_dance_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "It's over...",
-            /* OK        */ "When did it start raining?",
-            /* SUPERB    */ "Our new Bon Dance is a lot of fun!"
+            /* TRY_AGAIN */ "Plus jamais àπa...",
+            /* OK        */ "Dommage qu'il pleuve.",
+            /* SUPERB    */ "Notre Bon Dance est vraiment amusanteáR!"
         }
     },
     /* REMIX_1 */ {
@@ -667,9 +667,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix1_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Your performance was like... a cat's snack.",
-            /* OK        */ "Your preformance was like... an ordinary breakfast.",
-            /* SUPERB    */ "Your performance was like... why, a delicious dinner!"
+            /* TRY_AGAIN */ "C'áQtait comme... un reste pour chats.",
+            /* OK        */ "C'áQtait comme... une bonne collationáR!",
+            /* SUPERB    */ "C'áQtait comme... un dà≤ner 5 áQtoilesáR!"
         }
     },
     /* REMIX_2 */ {
@@ -683,9 +683,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix2_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "That was as lively as... playing ball by yourself.",
-            /* OK        */ "That was as lively as... a pleasant game of catch.",
-            /* SUPERB    */ "That was as lively as... a huge baseball tournament!"
+            /* TRY_AGAIN */ "C'áQtait aussi intense que de jouer seul ág la balle.",
+            /* OK        */ "C'áQtait aussi intense que jouer au baseball entre amis.",
+            /* SUPERB    */ "C'áQtait aussi intense qu'un tournoi mondial de baseballáR!"
         }
     },
     /* REMIX_3 */ {
@@ -699,9 +699,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix3_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Their love ended in... heartbreak...",
-            /* OK        */ "Their love ended in... a good friendship.",
-            /* SUPERB    */ "Their love ended in... a tender marriage!"
+            /* TRY_AGAIN */ "Leur amour se termina... en un douloureux chagrin.",
+            /* OK        */ "Leur amour se termina... en une bonne amitiáQ.",
+            /* SUPERB    */ "Leur amour se termina... en un mariage heureuxáR!"
         }
     },
     /* REMIX_4 */ {
@@ -715,9 +715,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix4_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Today's forecast... raining buckets.",
-            /* OK        */ "Today's forecast... very cloudy.",
-            /* SUPERB    */ "Today's forecast... clear skies all day!"
+            /* TRY_AGAIN */ "PráQvision máQtáQoáR: averses toute la journáQe.",
+            /* OK        */ "PráQvision máQtáQoáR: ciel nuageux.",
+            /* SUPERB    */ "PráQvision máQtáQoáR: ciel dáQgagáQ toute la journáQeáR!"
         }
     },
     /* REMIX_5 */ {
@@ -731,25 +731,25 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix5_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "This couple is... in trouble!",
-            /* OK        */ "This couple is... a little nervous...",
-            /* SUPERB    */ "This couple is... living their happy-ever-after!"
+            /* TRY_AGAIN */ "Ces deux-lág sont... dans de beaux drapsáR!",
+            /* OK        */ "Ces deux-lág sont... un peu nerveux...",
+            /* SUPERB    */ "Ces deux-lág sont... destináQs l'un pour l'autreáR!"
         }
     },
     /* REMIX_6 */ {
         /* Entry Scene   */ &scene_remix_6,
         /* Level Name    */ "Remix 6",
         /* Level Desc.   */ "On y estáR! Tous les\n"
-                            "mini-jeux sont lág,\n"
+                            "mini-jeux sont lágáR!\n"
                             "montrez-nous ce dont\n"
                             "vous àÆtes capableáR!",
         /* Level Icon    */ 2,
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix6_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Your fish tank is... pretty sparse.",
-            /* OK        */ "Your fish tank is... unique for sure!",
-            /* SUPERB    */ "Your fish tank is... unbelievable!"
+            /* TRY_AGAIN */ "Votre aquarium est... plutà∂t vide.",
+            /* OK        */ "Votre aquarium est... unique, c'est certaináR!",
+            /* SUPERB    */ "Votre aquarium est... tout bonnement incroyableáR!"
         }
     },
     /* REMIX_7 */ {
@@ -763,9 +763,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix7_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Your Jurassic visit was... terrifying!",
-            /* OK        */ "Your Jurassic visit was... rather tame.",
-            /* SUPERB    */ "Your Jurassic visit was... too much fun!"
+            /* TRY_AGAIN */ "Cette fois, le dinosaure áQtait... vraiment pas gentiláR!",
+            /* OK        */ "Cette fois, le dinosaure áQtait... plutà∂t calme.",
+            /* SUPERB    */ "Cette fois, le dinosaure áQtait... super amusantáR!"
         }
     },
     /* REMIX_8 */ {
@@ -779,9 +779,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_REMIX,
         /* Epilogue GFX  */ epilogue_remix8_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "Your road trip was... oh boy...",
-            /* OK        */ "Your road trip was... a little long.",
-            /* SUPERB    */ "Your road trip was... absolutely spectacular!"
+            /* TRY_AGAIN */ "Notre voyage fut... oh misáare...",
+            /* OK        */ "Notre voyage fut... un peu long.",
+            /* SUPERB    */ "Notre voyage fut... super rafraà≤chissantáR!"
         }
     },
     /* CAFE */ {
@@ -790,7 +790,7 @@ struct LevelData level_data_table[] = {
         /* Level Desc.   */ "Tout va bienáR? Si vous\n"
                             "avez une petite envie\n"
                             "de parler, n'háQsitez pas\n"
-                            "ág venir nous voiráR!",
+                            "ág venir me voiráR!",
         /* Level Icon    */ 45,
         /* Level Type    */ LEVEL_TYPE_BONUS,
         /* Epilogue GFX  */ epilogue_cafe_gfx_tables,
@@ -875,9 +875,9 @@ struct LevelData level_data_table[] = {
         /* Level Type    */ LEVEL_TYPE_BONUS,
         /* Epilogue GFX  */ epilogue_drum_live_gfx_tables,
         /* Epilogue Text */ {
-            /* TRY_AGAIN */ "The cleaner says... \"I know you can do it, keep it up!\"",
-            /* OK        */ "The owner says... \"You've got great skills, you know!\"",
-            /* SUPERB    */ "The producer says... \"You should play at our place, too!\""
+            /* TRY_AGAIN */ "Femme de máQnageáR: Å·áRVous ferez mieux demaináR!áRÅ‚",
+            /* OK        */ "PropriáQtaireáR: Å·áRMais c'est que vous avez du talentáR!áRÅ‚",
+            /* SUPERB    */ "ProducteuráR: Å·áRVous venez jouer quand chez nousáR?áRÅ‚"
         }
     }
 };

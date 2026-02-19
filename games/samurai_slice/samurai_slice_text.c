@@ -5,26 +5,26 @@
 /* Game Text - Samurai Slice */
 
 
-const char D_0805bca8[] = "Work on your basics.";
+const char D_0805bca8[] = "Vous devez revoir les bases.";
 
 const char D_0805bcc4[] = "";
 
-const char D_0805bcc8[] = "They ambushed you in the fog.";
+const char D_0805bcc8[] = "Le brouillard vous a embrouill‡Q.";
 
-const char D_0805bcec[] = "You cut straight through the fog!";
+const char D_0805bcec[] = "Vous les avez tranch‡Qs ‡g travers le brouillard‡R!";
 
-const char D_0805bd10[] = "You struggled against their quick pace.";
+const char D_0805bd10[] = "Leur rythmes rapides vous ont d‡Qstabilis‡Q.";
 
-const char D_0805bd30[] = "Even the fastest ones couldn't pass you!";
+const char D_0805bd30[] = "Mˆ®me les plus rapides ne vous ont pas ‡Qchapp‡Q‡R!";
 
-const char D_0805bd50[] = "The slow ones couldn't trip you up!";
+const char D_0805bd50[] = "Les plus lents ne vous ont pas fait flancher‡R!";
 
 const char D_0805bd68[] = "@@@‚r‚Œ‚‰‚ƒ‚…@‚”‚ˆ‚…@‚…‚‚…‚‚‰‚…‚“I";
 
-const char D_0805bd7c[] = "‚g‚DDD";
+const char D_0805bd7c[] = "‚g‚•‚DDD";
 
 const char D_0805bd88[] = "‚h‚”f‚“@‚‡‚…‚”‚”‚‰‚‚‡@‚†‚‚‡‚‡‚™DDD";
 
 const char D_0805bda4[] = "‚s‚—‚@‚‚†@‚”‚ˆ‚…‚DDDH";
 
-const char D_0805bdb8[] = "The Spectators' Tale";
+const char D_0805bdb8[] = "R‡Qcits du temoin";

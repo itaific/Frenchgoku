@@ -690,8 +690,8 @@ u32 results_get_negative_comments(void) {
 // [D_089d7b34] Rank Comment Pool (Try Again)
 const char *results_try_again_comment_pool[] = {
     "",
-    "Likewise, ",
-    "Also... "
+    "En plus, ",
+    "Aussi... "
 };
 
 
@@ -758,7 +758,7 @@ s24_8 results_get_positive_comments(void) {
                 modifiedComment[0] += 32;
             }
 
-            memcpy(commentsText, "...but ", 8);
+            memcpy(commentsText, "...mais ", 9);
             strcat(commentsText, modifiedComment);
             anim = results_get_comment_anim(commentsText, TEXT_ANCHOR_BOTTOM_RIGHT, 3);
             palette = EXTRA_COMMENT_PALETTE;
@@ -774,10 +774,10 @@ s24_8 results_get_positive_comments(void) {
                     memcpy(commentsText, "", 1);
                     break;
                 case 1:
-                    memcpy(commentsText, "And, ", 10); // ("moreover,")
+                    memcpy(commentsText, "Et ", 10); // ("moreover,")
                     break;
                 default:
-                    memcpy(commentsText, "Plus, ", 9); // ("also,")
+                    memcpy(commentsText, "En plus, ", 10); // ("also,")
                     break;
             }
             strcat(commentsText, modifiedComment);
@@ -817,7 +817,7 @@ s24_8 results_get_positive_comments(void) {
 
 // [D_089d7b40] Rank Comment Pool (OK)
 const char *results_ok_comment_pool[] = {
-    "Ca pouvait aller.",
+    "ˆ»a pouvait aller.",
     "Passable...",
     "Je ne sais pas...",
     "Hum..."

@@ -5,9 +5,9 @@
 /* Game Text - Remix 5 */
 
 
-const char D_0806a230[] = "Try a little harder.";
+const char D_0806a230[] = "Donnez-vous un peu plus de mal...";
 
-const char D_0806a240[] = "That was really great!";
+const char D_0806a240[] = "C'⑱tait excellent⑲!";
 
 const char D_0806a25c[] = "はんだん　りょくが　かけてます。";
 
@@ -17,19 +17,19 @@ const char D_0806a2a4[] = "もっと　ウデを　みがこう。";
 
 const char D_0806a2c0[] = "とても　テクニカルだ！";
 
-const char D_0806a2d8[] = "Rhythm League notes:";
+const char D_0806a2d8[] = "Avis de la f⑱d⑱ration";
 
 const char D_0806a2f4[] =
-    "\x01\x52" "\x05\x31" "\x01\x35" "♪ WISH - Can't Wait For You　";
+    "\x01\x52" "\x05\x31" "\x01\x35" "♪ Attendre Pour Toi  ";
 
 const char D_0806a314[] =
-    "\x01\x4c" "　Singer:　　Sohshi Tanaka";
+    "\x01\x4c" "　 Chant⑲:　　 NicoTap";
 
 const char D_0806a32c[] =
-    "\x01\x4c" "Music:\n"
+    "\x01\x4c" "Musique⑲:\n"
     "　　　　　　　　TSUNKU♂\n"
-    "Arrangement:\n"
+    "Arrangement⑲:\n"
     "　　　　　　　　Yuasa Koichi";
 
 const char D_0806a370[] =
-    "\x01\x43" "Managed by J.P. ROOM";
+    "\x01\x43" "Produit par J.P. ROOM";

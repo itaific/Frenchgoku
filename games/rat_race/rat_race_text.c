@@ -5,15 +5,15 @@
 /* Game Text - Rat Race */
 
 
-const char D_0805d104[] = "You don't know when to stop.";
+const char D_0805d104[] = "Tu ne sais pas t'arrˆ®ter, le bleu‡R!";
 
-const char D_0805d118[] = "You stopped on a dime!";
+const char D_0805d118[] = "Des arrˆ®ts contrˆ¶l‡Qs‡R!";
 
-const char D_0805d130[] = "You need to move sooner!";
+const char D_0805d130[] = "Am‡Qliore tes d‡Qmarrages, le bleu‡R!";
 
-const char D_0805d14c[] = "You took off right on cue!";
+const char D_0805d14c[] = "Des d‡Qmarrages foudroyants.";
 
-const char D_0805d164[] = "Stop getting in the way!";
+const char D_0805d164[] = "Arrˆ®te de nous marcher dessus‡R!";
 
 const char D_0805d180[] = "";
 
@@ -37,4 +37,4 @@ const char D_0805d214[] = "‚‚@‚‚‚’‚…@‚“‚‰‚‡‚‚“I";
 
 const char D_0805d220[] = "‚s‚’‚•‚“‚”@‚™‚‚•‚’@‚‰‚‚“‚”‚‰‚‚ƒ‚”‚“I";
 
-const char D_0805d234[] = "Hushed Whispers";
+const char D_0805d234[] = "Avis du chef des rats";
