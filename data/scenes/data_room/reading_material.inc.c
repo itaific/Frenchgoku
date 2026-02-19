@@ -174,7 +174,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* MECHANICAL_HORSE ("Mechanical Horse's Story") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Secrets de fabrication áQquine",
+            "Secrets de cráQation áQquine",
         /* BODY ----------------------------------------------------------- */
             "Nous avons eu la chance d'interviewer l'inventeur\n"
             "du Cheval máQcanique, Monsieur F,\n"
@@ -713,16 +713,16 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* RHYTHM_DIAGNOSIS ("Rhythm Diagnosis") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Diagnostic du type de rythme",
+            "Diagnostic du rythme",
         /* BODY ----------------------------------------------------------- */
             "\n"
-			"\001C" "\0031" "\001m" "Diagnostic du Rythme\n"
-            "\0030" "\001s" "\n"
-            "Diagnostiquons ensemble votre sens du rythme.\n"
+			"\001C" "\0031" "\001m" "Diagnostic du\n"
+			"Type de Rythme\n"
+			"\n"
+            "\0030" "\001s" "Diagnostiquons ensemble votre sens du rythme.\n"
 			"\n"
             "Choisissez les ráQponses\n"
 			"qui vous correspondent le mieuxáR!\n"
-			"\n"
 			"\n"
             "\n"
             "\n"
@@ -939,7 +939,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* RHYTHM_POEM ("Rhythm Poem Digest") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Collection de poáames rythmáQs",
+            "Collection de poáames",
         /* BODY ----------------------------------------------------------- */
             "\001C" "\0031" "\001m" "Å· Cultiver Å‚\n"
             "\n"
@@ -975,7 +975,7 @@ struct ReadingMaterial reading_material_table[] = {
 
     /* RHYTHM_HAIKU ("Rhythm Haiku Folio") */ {
         /* TITLE ---------------------------------------------------------- */
-            "Collection d'haà¥kus rythmiques",
+            "Collection de haà¥kus",
         /* BODY ----------------------------------------------------------- */
             "\n"
             "\001L" "\0030" "\001s" "Pratiquons ensemble\n"

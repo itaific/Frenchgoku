@@ -8,21 +8,21 @@
 
 // [D_089d83d0] Drum Kit Names
 const char *studio_drum_kit_names[] = {
-    /* DEFAULT */ "Standard Drum",
-    /* DRY     */ "Dry Drum",
-    /* POWER   */ "Power Drum",
-    /* TECHNO  */ "Techno Drum",
-    /* MATTE   */ "Matte Drum",
-    /* ASIAN   */ "Asian Drum",
-    /* LIGHT   */ "Light Drum",
-    /* HEAVY   */ "Heavy Drum",
-    /* HIHAT   */ "Hi-Hat Drum",
-    /* HEEL1   */ "Heel Drop Drum 1",
-    /* HEEL2   */ "Heel Drop Drum 2",
-    /* SFX     */ "Sound FX Drum",
-    /* TAP     */ "Tap Drum",
-    /* AIR     */ "Swift Drum",
-    /* SAMURAI */ "Samurai Drum"
+    /* DEFAULT */ "Batterie standard",
+    /* DRY     */ "Batterie s‡ache",
+    /* POWER   */ "Batterie puissante",
+    /* TECHNO  */ "Batterie techno",
+    /* MATTE   */ "Batterie mate",
+    /* ASIAN   */ "Batterie orientale",
+    /* LIGHT   */ "Batterie l‡Qg‡are",
+    /* HEAVY   */ "Batterie lourde",
+    /* HIHAT   */ "Batterie charleston",
+    /* HEEL1   */ "Batterie pro 1",
+    /* HEEL2   */ "Batterie pro 2",
+    /* SFX     */ "Batterie effets sonores",
+    /* TAP     */ "Batterie claquette",
+    /* AIR     */ "Batterie coupe-vent",
+    /* SAMURAI */ "Batterie du samouraˆ´"
 };
 
 
@@ -100,18 +100,18 @@ const char *studio_mem_warnings_text[] = {
     /* NO MEMORY -------------------------------------- */
         // [ You can't save any more data. ]
         // [ Perform without saving? ]
-        "Your memory is full.\n"
-        "Perform anyway?",
+        "La m‡Qmoire est pleine.\n"
+        "Jouer sans enregistrer la performance‡R?",
     /* TOO MANY REPLAYS ------------------------------- */
         // [ You can only save 10 recitals. ]
         // [ Perform without saving? ]
-        "There's no more room for\n"
-        "saving. Perform anyway?",
+        "Vous ne pouvez garder que 10 per-\n"
+        "formances. Jouer sans enregistrer‡R?",
     /* LOW MEMORY ------------------------------------- */
         // [ There's not much memory left. ]
         // [ Perform anyway? ]
-        "Save memory is running low.\n"
-        "Do you want to perform anyway?"
+        "La m‡Qmoire est presque pleine.\n"
+        "Souhaitez-vous jouer quand mˆ®me‡R?"
     /* ------------------------------------------------ */
 };
 

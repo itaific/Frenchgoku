@@ -113,27 +113,27 @@ void perfect_scene_start(void *sVar, s32 dArg) {
                 break;
 
             default:
-                strcat(gPerfect->string, "'s song");
+                strcat(gPerfect->string, "‡g ‡Qcouter.");
                 break;
         }
     }
 
-    strcat(gPerfect->string, "\0020" "\0010" "\nYou've earned a gift! "); // You've earned a gift!
+    strcat(gPerfect->string, "\0020" "\0010" "\nVous recevez un cadeau‡R! "); // You've earned a gift!
     strcat(gPerfect->string, perfect_gift_directive_text[giftType]);
 
     if (campaignsLeft > 0) {
-        strcat(gPerfect->string, "Looks like there are still " "\0021" "\0011"); // There are still...
+        strcat(gPerfect->string, "Il reste encore " "\0021" "\0011"); // There are still...
         strcat(gPerfect->string, count);
         if (campaignsLeft > 1) {
-            strcat(gPerfect->string, " gifts " "\0020" "\0010" "left.\n" // ...gifts
-                                         "Keep up the good work!"); // left to get. Keep going!
+            strcat(gPerfect->string, " cadeaux " "\0020" "\0010" "‡g gagner.\n" // ...gifts
+                                         "Continuez comme ˆ¹a‡R!"); // left to get. Keep going!
         } else {
-            strcat(gPerfect->string, " gift " "\0020" "\0010" "left.\n" // ...gift
-                                         "Keep up the good work!"); // left to get. Keep going!
+            strcat(gPerfect->string, " cadeau " "\0020" "\0010" "‡g gagner.\n" // ...gift
+                                         "Continuez comme ˆ¹a‡R!"); // left to get. Keep going!
         }
     } else {
-        strcat(gPerfect->string,"\0021" "\0011" "You've earned all of the gifts!" "\0020" "\0010" "\n"); // You finally got them all!
-        strcat(gPerfect->string, "That means you got a Perfect in everything!"); // Congratulations!
+        strcat(gPerfect->string,"\0021" "\0011" "C'‡Qtait le dernier cadeau‡R! Ce qui signifie que..." "\0020" "\0010" "\n"); // You finally got them all!
+        strcat(gPerfect->string, "Vous avez remport‡Q tous les Parfaits‡R! F‡Qlicitations‡R!"); // Congratulations!
     }
 
     text_printer_set_string(gPerfect->printer, gPerfect->string);
