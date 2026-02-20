@@ -53,7 +53,7 @@ const char *results_skill_text_barely_trk1[] = {
 
 // [D_089d79c8] DEBUG Skill Comments - Hits
 const char *results_skill_text_hit_avg[] = {
-    "Ｐｒぎｃｉｓｉｏｎ　ｄｅ　ｎｉｖｅａｕ　ａｍａｔｅｕｒ",
+    "Ｐｒぎｃｉｓｉｏｎ　ａｍａｔｅｕｒ",
     "Ｐｒぎｃｉｓｉｏｎ　ｏｒｄｉｎａｉｒｅ",
     "Ｐｒぎｃｉｓｉｏｎ　ｍｏｄぎｒぎｅ",
     NULL

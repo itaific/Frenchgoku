@@ -19,12 +19,12 @@ const char D_0805bd30[] = "M旭me les plus rapides ne vous ont pas ⑱chapp⑱⑲!";
 
 const char D_0805bd50[] = "Les plus lents ne vous ont pas fait flancher⑲!";
 
-const char D_0805bd68[] = "　　　Ｓｌｉｃｅ　ｔｈｅ　ｅｎｅｍｉｅｓ！";
+const char D_0805bd68[] = "ＴＴ　　Ｔｒａｎｃｈｅｚ　ｌｅｓ　ｅｎｎｅｍｉｓ　！";
 
 const char D_0805bd7c[] = "Ｈｕｍ．．．";
 
-const char D_0805bd88[] = "Ｉｔ’ｓ　ｇｅｔｔｉｎｇ　ｆｏｇｇｙ．．．";
+const char D_0805bd88[] = "Ｃｅ　ｂｒｏｕｉｌｌａｒｄ．．．";
 
-const char D_0805bda4[] = "Ｔｗｏ　ｏｆ　ｔｈｅｍ．．．？";
+const char D_0805bda4[] = "Ｄｅｕｘ　う　ｌａ　ｓｕｉｔｅ　？";
 
 const char D_0805bdb8[] = "R⑱cits du temoin";

@@ -85,7 +85,7 @@ const char D_08069c04[] = "N. Kitamura";
 
 const char D_08069c10[] = "M. Nomura";
 
-const char D_08069c1c[] = "\0023" "D‡Qbug";
+const char D_08069c1c[] = "\0023" "D‡Qbogage";
 
 const char D_08069c24[] = "Y. Adachi";
 

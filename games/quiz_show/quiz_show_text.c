@@ -5,117 +5,117 @@
 /* Game Text - Quiz Show */
 
 
-const char D_0805ec44[] = "Try harder next time.";
+const char D_0805ec44[] = "Donnez-vous un peu plus de mal...";
 
-const char D_0805ec60[] = "You were so close!";
+const char D_0805ec60[] = "Il faut apprendre ‡g compter...";
 
 const char D_0805ec78[] = "";
 
-const char D_0805ec7c[] = "You won! Congratulations!";
+const char D_0805ec7c[] = "F‡Qlicitations‡R! Belle victoire‡R!";
 
 const char D_0805eca4[] =
     "\n"
-    "Aww, too bad!\n"
+    "Aaah... Dommage‡R!\n"
     "\n";
 
 const char D_0805ecb0[] =
-    "Come back and\n"
-    "try again\n"
-    "next week!\n";
+    "Retentez votre\n"
+    "chance la\n"
+    "prochaine fois‡R!\n";
 
-const char D_0805ecd4[] = "A Word from Our Sponsor";
+const char D_0805ecd4[] = "Verdict de notre sponsor";
 
 const char D_0805ece8[] =
-    "Here's the\n"
-    "first question.\n"
-    "\n";
+    "Premi‡are question.\n"
+    "Regardez et\n"
+    "‡Qcoutez.\n";
 
 const char D_0805ecf8[] =
-    "Now, the second\n"
-    "question.\n"
+    "Seconde question.\n"
+    "Concentrez-vous‡R!\n"
     "\n";
 
 const char D_0805ed08[] =
-    "Aaaand third\n"
-    "question.\n"
+    "Eeet troisi‡ame\n"
+    "question‡R!\n"
     "\n";
 
 const char D_0805ed14[] =
-    "Ready?\n"
-    "Question number\n"
-    "four!\n";
+    "Question\n"
+    "num‡Qro 4‡R!\n"
+    "Prˆ®t‡R?\n";
 
 const char D_0805ed28[] =
-    "This is it!\n"
-    "There's no going\n"
-    "back now!\n";
+    "Je sens que la\n"
+    "tension monte chez\n"
+    "notre candidat‡R!\n";
 
 const char D_0805ed44[] =
-    "We have arrived\n"
-    "at question the\n"
-    "fifth!\n";
+    "Nous voici arriv‡Qs\n"
+    "‡g la cinqui‡ame\n"
+    "question‡R!\n";
 
 const char D_0805ed60[] =
-    "Here it is:\n"
-    "the final question!\n"
-    "\n";
+    "Question finale‡R!\n"
+    "C'est l‡g que tout\n"
+    "se joue‡R!\n";
 
 const char D_0805ed74[] =
     "\n"
-    "Go ahead.\n"
+    "C'est ‡g vous‡R!\n"
     "\n";
 
 const char D_0805ed7c[] =
-    "\n"
-    "Aaaand stop!\n"\
+    "Eeet c'est\n"
+    "termin‡Q‡Q‡Q‡R!\n"
     "\n";
 
 const char D_0805ed8c[] =
-    "And the correct\n"
-    "answer is...\n"
+    "La bonne\n"
+    "r‡Qponse est...\n"
     "\n";
 
 const char D_0805ed9c[] =
-    "\n"
-    "You are correct!\n"
+    "C'est la bonne\n"
+    "r‡Qponse‡R!\n"
     "\n";
 
 const char D_0805eda8[] =
-    "Amazing! You aced\n"
-    "the quiz! You score\n"
-    "a mojillion points!";
+    "Fantastique‡R! Vous\n"
+    "marquez un trou-\n"
+    "zillion de points‡R!";
 
 const char D_0805edd8[] =
-    "See you again\n"
-    "next week!\n"
+    "‡f demain pour\n"
+    "un nouvel ‡Qpisode‡R!\n"
     "\n";
 
 const char D_0805edf4[] =
-    "Good day!\n"
-    "It's time to play\n"
-    "the quiz!\n";
+    "Bienvenue‡R!\n"
+    "C'est l'heure de\n"
+    "notre quiz‡R!\n";
 
 const char D_0805ee20[] =
-    "The rules\n"
-    "are simple:\n"
+    "Les r‡agles\n"
+    "sont simples‡R:\n"
     "\n";
 
 const char D_0805ee34[] = 
-    "Just count the\n"
-    "number of times I\n"
-    "hit these buttons.\n";
+    "Comptez le nombre\n"
+    "de fois oˆ· j'appuie\n"
+    "sur ces boutons.\n";
 
 const char D_0805ee5c[] = 
-    "When I say to, hit\n"
-    "your buttons to\n"
-    "match my total.";
+    "‡f mon signal,\n"
+    "appuyez le mˆ®me\n"
+    "nombre de fois.";
 
 const char D_0805ee8c[] = 
-    "‡M or ‡O, it doesn't\n"
-    "matter. Just focus\n"
-    "on the final total!\n";
+    "Appuyez\n"
+    "sur ‡M ou ‡O,\n"
+    "peu importe.\n";
 
 const char D_0805eebc[] = 
     "\n"
-    "Let's begin.\n"
+    "C'est parti‡R!\n"
     "\n";

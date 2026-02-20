@@ -20,10 +20,10 @@ const char D_0806a2c0[] = "とても　テクニカルだ！";
 const char D_0806a2d8[] = "Avis de la f⑱d⑱ration";
 
 const char D_0806a2f4[] =
-    "\x01\x52" "\x05\x31" "\x01\x35" "♪ Attendre Pour Toi  ";
+    "\x01\x52" "\x05\x31" "\x01\x35" "♪ Attendre Pour Toi 　";
 
 const char D_0806a314[] =
-    "\x01\x4c" "　 Chant⑲:　　 NicoTap";
+    "\x01\x4c" "　 Chant⑲:　　　NicoTap";
 
 const char D_0806a32c[] =
     "\x01\x4c" "Musique⑲:\n"

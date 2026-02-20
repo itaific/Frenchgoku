@@ -133,7 +133,7 @@ void perfect_scene_start(void *sVar, s32 dArg) {
         }
     } else {
         strcat(gPerfect->string,"\0021" "\0011" "C'‡Qtait le dernier cadeau‡R! Ce qui signifie que..." "\0020" "\0010" "\n"); // You finally got them all!
-        strcat(gPerfect->string, "Vous avez remport‡Q tous les Parfaits‡R! F‡Qlicitations‡R!"); // Congratulations!
+        strcat(gPerfect->string, "Vous avez remport‡Q tous les Parfaits‡R! Bravo‡R!"); // Congratulations!
     }
 
     text_printer_set_string(gPerfect->printer, gPerfect->string);
