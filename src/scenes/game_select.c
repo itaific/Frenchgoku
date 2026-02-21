@@ -1784,7 +1784,7 @@ void game_select_set_medal_count(u32 total) {
 
     sprite_set_anim_cel(gSpriteHandler, gGameSelect->medalPaneDigit1, total % 10);
     sprite_set_anim_cel(gSpriteHandler, gGameSelect->medalPaneDigit2, (total < 10) ? 10 : (total / 10));
-    sprite_set_x(gSpriteHandler, gGameSelect->medalPaneDigit1, (total < 10) ? 166 : 170);
+    sprite_set_x(gSpriteHandler, gGameSelect->medalPaneDigit1, (total < 10) ? 178 : 170);
 }
 
 
