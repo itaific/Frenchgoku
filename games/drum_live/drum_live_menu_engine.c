@@ -48,7 +48,7 @@ const char *drum_live_menu_poster_desc[] = {
     "\n",
 
     /* DRUM BAND  */
-    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Samourai Tom       et sa bande \n"
+    "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "Samouraˆ´ Tom       et sa bande \n"
     "\x03\x31" "\x01\x6d" "\x05\x30" "\x01\x34" "\x01\x52" "en CONCERT ! \n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "\x01\x4c" "ô@Danse cosmique\n"
     "\x03\x30" "\x01\x73" "\x05\x31" "\x01\x35" "ô@Trio western clap\n"

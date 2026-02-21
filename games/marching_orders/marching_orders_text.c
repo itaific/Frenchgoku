@@ -15,7 +15,7 @@ const char D_0805c7c0[] = "Votre rythme ‡Qtait au point‡R!";
 
 const char D_0805c7d8[] = "Vous devez encore vous perfectionner...";
 
-const char D_0805c7f4[] = "Very technically sound!";
+const char D_0805c7f4[] = "Vos pas sonnaient agr‡Qablement‡R!";
 
 const char D_0805c80c[] = "Rapport du sergent";
 

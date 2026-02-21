@@ -76,63 +76,63 @@ return
 @ Rap Men - Text
 
 text text_rap_men_sanji_desu_ka
-    .asciz ".b:1Ｉｔ’ｓ　３　ＰＭ，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ｙｏ，　ｃ’ｅｓｔ　ｂｉｅｎｔぞｔ　ｌ’ｈｅｕｒｅ，　.b:0ｈｅｉｎ　？.8:1"
 endtext
 
 text text_rap_men_oyatsu_desu_ka
-    .asciz ".b:1Ｉｔ’ｓ　ｓｎａｃｋ　ｔｉｍｅ，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ｙｏ，　ｌ’ｈｅｕｒｅ　ｄｕ　ｇｏとｔｅｒ，　.b:0ｈｅｉｎ　？.8:1"
 endtext
 
 text text_rap_men_honto_desu_ka
-    .asciz ".b:1Ｍａｙｂｅ　ｓｏ，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ｊ’ａｉ　ｒａｉｓｏｎ，　.b:0ｈｅｉｎ　？.8:1"
 endtext
 
 text text_rap_men_wakarimasu_ka
-    .asciz ".b:1Ｙｏｕ　ｇｅｔ　ｉｔ　ｎｏｗ，　.b:0ｈｕｈ？.8:1"
+    .asciz ".b:1Ｙｏ，　ｒａｐｐｅ　ａｖｅｃ　ｍｏｉ，　.b:0ｈｅｉｎ　？.8:1"
 endtext
 
 text text_rap_men_oishii_kamo_ne
-    .asciz ".9:1Ｔａｓｔｙ　ｓｎａｃｋｓ，　.9:0ｙａ　ｆｅｅｌ　ｍｅ？.8:1"
+    .asciz ".9:1Ｄぎｌｉｃｉｅｕｘ，　.9:0ｔｕ　ｃｒｏｉｓ　ｐａｓ　？.8:1"
 endtext
 
 text text_rap_men_herushii_kamo_ne
-    .asciz ".9:1Ｈｅａｌｔｈｙ　ｓｎａｃｋｓ，　.9:0ｙａ　ｆｅｅｌ　ｍｅ？.8:1"
+    .asciz ".9:1Ｓａｖｏｕｒｅｕｘ，　.9:0ｔｕ　ｃｒｏｉｓ　ｐａｓ　？.8:1"
 endtext
 
 text text_rap_men_ore_no_sei_kamo_ne
-    .asciz ".9:1Ｍｉｇｈｔ’ｖｅ　ｂｅｅｎ　ｕｓ，　.9:0ｙａ　ｆｅｅｌ　ｍｅ？.8:1"
+    .asciz ".9:1Ｑｕｉ　ａ　ｔｏｕｔ　ｐｒｉｓ，　.9:0ｔｕ　ｓａｉｓ　ｐａｓ　？.8:1"
 endtext
 
 text text_rap_men_sore_mo_sou_kamo_ne
-    .asciz ".9:1Ｔｈａｔ’ｓ　ｈｏｗ　ｉｔ　ｂｅ，　.9:0ｙａ　ｆｅｅｌ　ｍｅ？.8:1"
+    .asciz ".9:1Ｔｕ　ｐｅｕｘ　ｍｅ　ｄｉｒｅ，　.9:0ｔｕ　ｃｒｏｉｓ　ｐａｓ　？.8:1"
 endtext
 
 text text_rap_men_tanoshii_kamo_ne
-    .asciz ".9:1Ｈａｖｉｎ’　ｆｕｎ，　.9:0ｙａ　ｆｅｅｌ　ｍｅ？.8:1"
+    .asciz ".9:1Ｅｔ　おａ　ｇｒｏｏｖｅ　！　.9:0Ｔｕ　ｃｒｏｉｓ　ｐａｓ　？.8:1"
 endtext
 
 text text_rap_men_oyatsu_wa_saikou
-    .asciz ".a:1Ｓｎａｃｋｉｎｇ　ｉｓ　.a:0ｓｏ　ＡＷＥＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｃｅｓ　ｓｎａｃｋｓ　ｓｏｎｔ　ｌｅｓ　.a:0ＭＥＩＬＬＥＵＲＳ　！.8:1"
 endtext
 
 text text_rap_men_kibun_wa_saikou
-    .asciz ".a:1Ｉ　ｆｅｅｌ　.a:0ｓｏ　ＡＷＥＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｏｎ　ｅｓｔ　ｌｅｓ　.a:0ＭＥＩＬＬＥＵＲＳ　！.8:1"
 endtext
 
 text text_rap_men_ore_tte_saikou
-    .asciz ".a:1Ｗｅ　ａｒｅ　.a:0ｓｏ　ＡＷＥＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｃ’ｅｓｔ　ｍｏｉ　ｌｅ　.a:0ＭＥＩＬＬＥＵＲ　！.8:1"
 endtext
 
 text text_rap_men_kimi_tte_saikou
-    .asciz ".a:1Ｙｏｕ　ａｒｅ　.a:0ｓｏ　ＡＷＥＳＯＭＥ！.8:0"
+    .asciz ".a:1Ｃ’ｅｓｔ　ｔｏｉ　ｌｅ　.a:0ＭＥＩＬＬＥＵＲ　！.8:0"
 endtext
 
 text text_rap_men_oyatsu_ga_nai_yo
-    .asciz ".a:1Ｗａｉｔ　ａ　ｓｅｃ，　ｗｅ　.a:0ＬＯＳＴ　ＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｄｏｉｔ　ｙ　ａｖｏｉｒ　ｕｎ　.a:0ＶＯＬＥＵＲ　！.8:1"
 endtext
 
 text text_rap_men_ore_shiranai_yo
-    .asciz ".a:1Ｇｕｅｓｓ　ｉｔ’ｓ　ｈｏｗ　ｗｅ　.a:0ＬＯＳＴ　ＳＯＭＥ！.8:1"
+    .asciz ".a:1Ｓｉ　ｃ’ｅｓｔ　ｔｏｉ　ｌｅ　.a:0ＶＯＬＥＵＲ　！.8:1"
 endtext
 
 
