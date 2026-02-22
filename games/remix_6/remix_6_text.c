@@ -5,9 +5,9 @@
 /* Game Text - Remix 6 */
 
 
-const char D_0806a7a8[] = "Try a little harder.";
+const char D_0806a7a8[] = "Donnez-vous un peu plus de mal...";
 
-const char D_0806a7b8[] = "That was really great!";
+const char D_0806a7b8[] = "C'⑱tait excellent⑲!";
 
 const char D_0806a7d4[] = "";
 
@@ -17,36 +17,36 @@ const char D_0806a81c[] = "";
 
 const char D_0806a838[] = "";
 
-const char D_0806a850[] = "Rhythm League notes:";
+const char D_0806a850[] = "Avis de la f⑱d⑱ration";
 
-const char D_0806a86c[] = "Ｌｅｔ’ｓ　ｒｅｖｉｅｗ　ｙｏｕｒ　ｌｅａｒｎｉｎｇｓ！";
+const char D_0806a86c[] = "Ｖｏｙｏｎｓ　ｃｅ　ｑｕ’ａｖｅｚ　ａｐｐｒｉｓ　ｖｏｕｓ　！";
 
-const char D_0806a898[] = "Ｉｔ’ｓ　ｅａｓｙ，　ｔｏ　ｓａｙ　ｉｎ　ａｄｖａｎｃｅ！";
+const char D_0806a898[] = "Ｐａｓ　ｄ’ｉｎｑｕｉぎｔｕｄｅ，　ｓｅｒａ　ｆａｃｉｌｅ　おａ　！";
 
-const char D_0806a8c8[] = "Ｌｅｔ　ｆｕｎ　ｂｅ　ｈａｄ！";
+const char D_0806a8c8[] = "Ｑｕｅ　ｌｅ　ｃｏｍｍｅｎｃｅ　ｆｕｎ　！";
 
 const char D_0806a8d8[] =
     "\n"
-    "Let's begin!";
+    "Commen飴ons⑲!";
 
 const char D_0806a8e4[] =
     "\n"
-    "Go ahead.";
+    "C'est ㍑ vous⑲!";
 
 const char D_0806a8f0[] =
     "\n"
-    "Aaaand stop!";
+    "Eeeeet stop⑲!";
 
 const char D_0806a900[] =
     "\n"
-    "Aww, too bad!";
+    "Oups, dommage⑲!";
 
 const char D_0806a910[] =
     "\n"
-    "Impressive!";
+    "Impressionnant⑲!";
 
 const char D_0806a920[] = ".1:0" "Ｄｏｎｄｏ　" ".2:0" "ｐａｎｐａ";
 
-const char D_0806a944[] = ".1:0" "Ｄｏ－ｎ　" ".2:0" "ｐａ－ｎ　ｐａｎ";
+const char D_0806a944[] = ".1:0" "Ｄｏｎ　" ".2:0" "ｐａｎ　ｐａｎ";
 
-const char D_0806a970[] = "Ｔｈｅ　Ｅｎｄ！";
+const char D_0806a970[] = "Ｆｉｎ　！";

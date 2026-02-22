@@ -5,32 +5,32 @@
 /* Game Text - Ninja Bodyguard */
 
 
-const char D_0805b8e0[] = "I hired you to protect me.";
+const char D_0805b8e0[] = "Vous avez d‡Qj‡g tenu un sabre avant‡R?";
 
 const char D_0805b8f8[] = "";
 
-const char D_0805b8fc[] = "Your swordplay skills were lacking.";
+const char D_0805b8fc[] = "Vous manquez d'entraˆ²nement.";
 
-const char D_0805b924[] = "You're quite nimble with a sword!";
+const char D_0805b924[] = "Quelle habilet‡Q au sabre‡R!";
 
-const char D_0805b944[] = "Their four-arrow barrage overwhelmed you.";
+const char D_0805b944[] = "Les quatre fl‡aches vous ont fait paniquer.";
 
-const char D_0805b968[] = "You blocked their four-arrow barrage!";
+const char D_0805b968[] = "Vous avez par‡Q quatre fl‡aches ‡g la suite‡R?!";
 
-const char D_0805b988[] = "My Lord solemnly intones...";
+const char D_0805b988[] = "Votre seigneur d‡Qclare";
 
-const char D_0805b99c[] = "I thought you were trying to protect me...";
+const char D_0805b99c[] = "Tu avais promis de me prot‡Qger...";
 
 const char D_0805b9b4[] = "";
 
-const char D_0805b9b8[] = "Your stick swipes weren't quick enough.";
+const char D_0805b9b8[] = "Tu dois ˆ®tre plus vif‡R!";
 
-const char D_0805b9dc[] = "You're pretty quick with a stick!";
+const char D_0805b9dc[] = "Tu es tellement agile avec ce b‡uton‡R!";
 
-const char D_0805b9fc[] = "Their five-rock barrage overwhelmed you.";
+const char D_0805b9fc[] = "Les cinq pierres ‡g la suite t'ont fait paniquer.";
 
-const char D_0805ba1c[] = "You blocked their five-rock barrage!";
+const char D_0805ba1c[] = "Tu as bloqu‡Q cinq pierres ‡g la suite‡R?!";
 
-const char D_0805ba40[] = "You deflected two rocks in one go! Brilliant!";
+const char D_0805ba40[] = "Tu as mˆ®me bloqu‡Q deux pierres d'un coup‡R! Wow‡R!";
 
-const char D_0805ba68[] = "My girlfriend calmly comments...";
+const char D_0805ba68[] = "Ma petite-amie me chuchotte...";

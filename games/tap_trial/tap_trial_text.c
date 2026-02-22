@@ -5,76 +5,76 @@
 /* Game Text - Tap Trial */
 
 
-const char D_0805c0d0[] = "You need to go over the basics again.";
+const char D_0805c0d0[] = "Il faut revoir les bases, encore.";
 
-const char D_0805c0ec[] = "You were able to adapt no matter what!";
+const char D_0805c0ec[] = "Tu as v⑱ritablement dompt⑱ le rythme⑲!";
 
-const char D_0805c104[] = "You couldn't decide on anything in the moment.";
+const char D_0805c104[] = "Il faut se d⑱cider au bon moment...";
 
-const char D_0805c11c[] = "You had great decision-making skills!";
+const char D_0805c11c[] = "Tu r⑱agis super vite⑲!";
 
-const char D_0805c130[] = "You needed to concentrate more.";
+const char D_0805c130[] = "Concentrons-nous mieux que 飴a⑲!";
 
-const char D_0805c144[] = "You were clearly concentrating hard.";
+const char D_0805c144[] = "Quelle concentration⑲!";
 
-const char D_0805c15c[] = "You let your guard down at the very end.";
+const char D_0805c15c[] = "Oh non⑲! Tu as baiss⑱ ta garde ㍑ la toute fin⑲!";
 
 const char D_0805c170[] = "";
 
-const char D_0805c174[] = "Ｌｅｔ’ｓ　ｄａｎｃｅ！";
+const char D_0805c174[] = "Ｄａｎｓｏｎｓ　！";
 
-const char D_0805c18c[] = "Ｉ　ｌｏｖｅ　ｔａｐ！";
+const char D_0805c18c[] = "Ｊｅ　ｒｅｇａｒｄｅ　おａ　！";
 
-const char D_0805c1a8[] = "Ｗｈａｔ　ａ　ｐｅｒｆｏｒｍａｎｃｅ！";
+const char D_0805c1a8[] = "Ｂｅｌ　ｅｆｆｏｒｔ　！";
 
-const char D_0805c1bc[] = "Ｌｅｔ’ｓ　ｔａｐ！";
+const char D_0805c1bc[] = "Ｆａｉｓｏｎｓ　ｄｅｓ　ｃｌａｑｕｅｔｔｅｓ　！";
 
-const char D_0805c1d0[] = "Ｐｒａｃｔｉｃｅ　ｆｉｒｓｔ！";
+const char D_0805c1d0[] = "Ｄ’ａｂｏｒｄ，　ｌ’ｅｎｔｒａごｎｅｍｅｎｔ．";
 
-const char D_0805c1e8[] = "Ｊｕｓｔ　ｃｏｐｙ　ｕｓ！";
+const char D_0805c1e8[] = "Ｉｍｉｔｅ－ｎｏｕｓ　！";
 
-const char D_0805c1f8[] = "ＯＫ，　ｈｅｒｅ’ｓ　ａｎｏｔｈｅｒ　ｓｔｅｐ！";
+const char D_0805c1f8[] = "ＯＫ　！　Ｐａｓｓｏｎｓ　う　ｌａ　ｓｕｉｔｅ．";
 
-const char D_0805c210[] = "ＯＫ，　ｏｎｅ　ｍｏｒｅ！";
+const char D_0805c210[] = "ＯＫ　！　Ｅｎｃｏｒｅ　ｕｎ　ａｕｔｒｅ　ｐａｓ．";
 
-const char D_0805c228[] = "ＯＫ，　ｌａｓｔ　ｏｎｅ！";
+const char D_0805c228[] = "ＯＫ　！　Ｅｔ　ｖｏｉｌう　ｌｅ　ｄｅｒｎｉｅｒ．";
 
-const char D_0805c240[] = "ＯＫ，　ｎｉｃｅ　ｗｏｒｋ！";
+const char D_0805c240[] = "ＯＫ　！　Ｃ’ｅｓｔ　ｐａｒｆａｉｔ　！";
 
-const char D_0805c248[] = "Your basics were a little sloppy.";
+const char D_0805c248[] = "Revois les bases, s'il te pla梓t...";
 
-const char D_0805c264[] = "You showed real rhythm potential!";
+const char D_0805c264[] = "Tu es vraiment des n宛tres⑲!";
 
-const char D_0805c274[] = "You seemed to be looking for the rhythm.";
+const char D_0805c274[] = "Il faut se d⑱cider au bon moment...";
 
-const char D_0805c290[] = "You had nice rhythm awareness!";
+const char D_0805c290[] = "Les r⑱actions ⑱taient rapides⑲!";
 
-const char D_0805c2a8[] = "You needed to concentrate more.";
+const char D_0805c2a8[] = "Concentrons-nous mieux que 飴a⑲!";
 
-const char D_0805c2bc[] = "You were clearly concentrating hard.";
+const char D_0805c2bc[] = "Quelle concentration⑲!";
 
-const char D_0805c2d4[] = "You might need some more practice.";
+const char D_0805c2d4[] = "Il te faudrait plus d'entra梓nement.";
 
 const char D_0805c2e8[] = "";
 
-const char D_0805c2ec[] = "Monkey feedback";
+const char D_0805c2ec[] = "Remarques des singes";
 
-const char D_0805c300[] = "Ｌｅｔ’ｓ　ｄａｎｃｅ！";
+const char D_0805c300[] = "Ｄａｎｓｏｎｓ　！";
 
-const char D_0805c318[] = "Ｉ　ｌｏｖｅ　ｔａｐ！";
+const char D_0805c318[] = "Ｊｅ　ｒｅｇａｒｄｅ　おａ　！";
 
-const char D_0805c334[] = "Ｗｈａｔ　ａ　ｐｅｒｆｏｒｍａｎｃｅ！";
+const char D_0805c334[] = "Ｂｅｌ　ｅｆｆｏｒｔ　！";
 
-const char D_0805c348[] = "Ｌｅｔ’ｓ　ｔａｐ！";
+const char D_0805c348[] = "Ｆａｉｓｏｎｓ　ｄｅｓ　ｃｌａｑｕｅｔｔｅｓ　！";
 
-const char D_0805c35c[] = "Ｐｒａｃｔｉｃｅ　ｆｉｒｓｔ！";
+const char D_0805c35c[] = "Ｄ’ａｂｏｒｄ，　ｌ’ｅｎｔｒａごｎｅｍｅｎｔ．";
 
-const char D_0805c374[] = "Ｊｕｓｔ　ｃｏｐｙ　ｕｓ！";
+const char D_0805c374[] = "Ｉｍｉｔｅ－ｎｏｕｓ　！";
 
-const char D_0805c384[] = "ＯＫ，　ｈｅｒｅ’ｓ　ａｎｏｔｈｅｒ　ｓｔｅｐ！";
+const char D_0805c384[] = "ＯＫ　！　Ｐａｓｓｏｎｓ　う　ｌａ　ｓｕｉｔｅ．";
 
-const char D_0805c39c[] = "ＯＫ，　ｏｎｅ　ｍｏｒｅ！";
+const char D_0805c39c[] = "ＯＫ　！　Ｅｎｃｏｒｅ　ｕｎ　ａｕｔｒｅ　ｐａｓ．";
 
-const char D_0805c3b4[] = "ＯＫ，　ｌａｓｔ　ｏｎｅ！";
+const char D_0805c3b4[] = "ＯＫ　！　Ｅｔ　ｖｏｉｌう　ｌｅ　ｄｅｒｎｉｅｒ．";
 
-const char D_0805c3cc[] = "ＯＫ，　ｎｉｃｅ　ｗｏｒｋ！";
+const char D_0805c3cc[] = "ＯＫ　！　Ｃ’ｅｓｔ　ｐａｒｆａｉｔ　！";

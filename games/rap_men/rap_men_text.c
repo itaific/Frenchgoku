@@ -11,7 +11,7 @@ const char D_0805e938[] = "Les á‡Rhein‡R?‡Râ ‡Qtaient groovy‡R!";
 
 const char D_0805e960[] = "T'as mal g‡Qr‡Q, á‡Rtu crois pas‡R?‡Râ";
 
-const char D_0805e988[] = "T'as tr‡as bien g‡Qr‡Q, á‡Rtu crois pas‡R?‡Râ";
+const char D_0805e988[] = "T'as tr‡as bien g‡Qr‡Q les á‡Rtu crois pas‡R?‡Râ";
 
 const char D_0805e9ac[] = "Les á‡RMEILLEURS‡Râ pouvaient ˆ®tre meilleurs...";
 
