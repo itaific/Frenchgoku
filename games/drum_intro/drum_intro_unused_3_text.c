@@ -6,28 +6,28 @@
 
 
 const char D_0805e42c[] =
-    "Hi there!\n"
-    "I'm Samurai Drummer";
+    "Salut‡R! C'est moi,\n"
+    "Samouraˆ´ Tom.";
 
-const char D_0805e444[] = "How have you been?";
+const char D_0805e444[] = "Comment ˆ¹a va‡R?";
 
 const char D_0805e458[] = 
-    "This lesson, let's play along\n"
-    "with a short music track.";
+    "Pour cette leˆ¹on, on va\n"
+    "jouer sur un petit morceau.";
 
 const char D_0805e490[] = 
-    "Listen closely,\n"
-    "then repeat after me.";
+    "‡Pcoute attentivement,\n"
+    "et r‡Qp‡ate apr‡as moi.";
 
-const char D_0805e4c0[] = "I'll get right to it.";
+const char D_0805e4c0[] = "Je commence.";
 
 const char D_0805e4e0[] =
-    "No, that's wrong!\n"
-    "Listen to me again.";
+    "Non, pas comme ˆ¹a‡R!\n"
+    "‡Pcoute.";
 
 const char D_0805e4f8[] =
-    "No, that's not right!\n"
-    "Listen to me very carefully.";
+    "Non, toujours pas‡R!\n"
+    "‡Pcoute bien attentivement.";
 
 const char *const D_0805e520[] = {
     D_0805e4c0,
@@ -38,15 +38,15 @@ const char *const D_0805e520[] = {
 
 const char D_0805e530[] =
     "\n"
-    "Your turn.";
+    "‡f toi.";
 
 const char D_0805e544[] =
     "\n"
-    "Good, you've got it now!";
+    "Ok, tu vas y arriver\ncette fois.";
 
 const char D_0805e55c[] =
     "\n"
-    "Now, it's your turn!";
+    "Allez, ‡g toi.";
 
 const char *const D_0805e574[] = {
     D_0805e530,
@@ -57,15 +57,15 @@ const char *const D_0805e574[] = {
 
 const char D_0805e584[] =
     "\n"
-    "OK!";
+    "Super‡R!";
 
 const char D_0805e58c[] = "";
 
-const char D_0805e590[] = "Good, you've got it now!";
+const char D_0805e590[] = "T'as tout compris‡R!";
 
-const char D_0805e5ac[] = "You're picking this up quickly!";
+const char D_0805e5ac[] = "Tu apprends vite‡R!";
 
-const char D_0805e5d0[] = "Nicely done!";
+const char D_0805e5d0[] = "T'as r‡Qussi‡R!";
 
 const char *const D_0805e5e4[] = {
     D_0805e58c,
@@ -76,14 +76,16 @@ const char *const D_0805e5e4[] = {
 };
 
 const char D_0805e5f8[] =
-    "Next, start off the song with a crash.\n"
-    "Press ‡L to hit the cymbals.";
+    "Pour la suite,\n"
+	"commence avec une crash.\n"
+    "Appuie sur ‡L pour\n"
+	"taper la cymbale.";
 
-const char D_0805e64c[] = "You only need to press both\n ‡N and ‡L at the same time once.";
+const char D_0805e64c[] = "Tu dois appuyer sur\n‡N et ‡L en mˆ®me temps,\nune seule fois.";
 
-const char D_0805e684[] = "We went over this in the previous\n lesson, so remember our practice from then.";
+const char D_0805e684[] = "On a fait ˆ¹a dans la\nderni‡are leˆ¹on, souviens-toi\nde l'entraˆ²nement‡R!";
 
-const char D_0805e6b0[] = "With that, let's start!";
+const char D_0805e6b0[] = "Allez, on commence‡R!";
 
 const char *const D_0805e6c4[] = {
     D_0805e6b0,
@@ -93,12 +95,12 @@ const char *const D_0805e6c4[] = {
 };
 
 const char D_0805e6d4[] =
-    "Great work!\n"
-    "Keep it up.";
+    "Beau travail‡R!\n"
+    "Continue comme ˆ¹a.";
 
-const char D_0805e6f0[] = "Was that pretty easy?";
+const char D_0805e6f0[] = "C'‡Qtait plutˆ¶t facile, hein‡R?";
 
-const char D_0805e70c[] = "That was tough, right?";
+const char D_0805e70c[] = "C'‡Qtait dur, hein‡R?";
 
 const char *const D_0805e730[] = {
     D_0805e58c,
@@ -108,9 +110,9 @@ const char *const D_0805e730[] = {
     NULL
 };
 
-const char D_0805e744[] = "Let's end this on a high note!";
+const char D_0805e744[] = "Rendons la fin\nplus int‡Qressante‡R!";
 
-const char D_0805e778[] = "Here's an example.";
+const char D_0805e778[] = "J'te fais un exemple.";
 
 const char *const D_0805e790[] = {
     D_0805e778,
@@ -121,7 +123,7 @@ const char *const D_0805e790[] = {
 
 const char D_0805e7a0[] =
     "\n"
-    "Good luck!";
+    "Courage‡R!";
 
 const char *const D_0805e7b0[] = {
     D_0805e7a0,
@@ -131,16 +133,18 @@ const char *const D_0805e7b0[] = {
 };
 
 const char D_0805e7c0[] =
-    "You did it all at once!\n"
-    "I can't believe it!";
+    "Attends mais t'as r‡Qussi\n"
+	"du premier coup‡R?!\n"
+    "Comment c'est possible‡R?!";
 
 const char D_0805e7ec[] =
-    "You did it in only two tries!\n"
-    "Good job!";
+    "T'as r‡Qussi en seulement\n"
+	"deux essais‡R!\n"
+    "Vraiment bien jou‡Q‡R!";
 
 const char D_0805e818[] =
-    "You managed to do it somehow!\n"
-    "That's looking good!";
+    "T'as fini par r‡Qussir‡R!\n"
+    "Tu t'en sors bien‡R!";
 
 const char *const D_0805e844[] = {
     D_0805e58c,
@@ -150,10 +154,10 @@ const char *const D_0805e844[] = {
     NULL
 };
 
-const char D_0805e858[] = "Since you've aced all parts of the songs,\nI think you'll enjoy my drum lessons!";
+const char D_0805e858[] = "Vu que t'as r‡Qussi toutes\nles parties de la chanson,\nje pense que mes leˆ¹ons de\nbatterie te plairont‡R!";
 
-const char D_0805e8c0[] = "You can play them in the bonus corner.\n Enjoy yourself!";
+const char D_0805e8c0[] = "Tu peux les retrouver\ndans le Coin bonus.\nAmuse-toi bien‡R!";
 
 const char D_0805e8f8[] =
-    "Well, see you later!\n"
-    "Goodbye!";
+    "Bon, eh bien...\n"
+    "‡f plus tard, dans ce cas‡R!";

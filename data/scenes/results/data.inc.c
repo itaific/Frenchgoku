@@ -62,7 +62,7 @@ const char *results_skill_text_hit_avg[] = {
 
 // [D_089d79d8] DEBUG Skill Comments - Irrelevant Inputs
 const char *results_skill_text_irrelevant_inputs[] = {
-    "‚q‚…‚“‚“‚‚•‚’‚ƒ‚…‚“@‚…‚@‚…‚‚„‚•‚’‚‚‚ƒ‚…",
+    "‚d‚‚„‚•‚’‚‚‚ƒ‚…",
     "‚s‚‚Œ‚…‚‚”@‚’‚‚”‚‰‚‚‚‚…‚Œ",
     "‚b‚‚Œ‚‚…",
     NULL

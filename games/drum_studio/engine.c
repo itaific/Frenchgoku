@@ -121,13 +121,13 @@ const char D_08059f94[] = "";
 
 const char D_08059f98[] = "";
 
-const char D_08059f9c[] = "\nOccupe-toi seulement du debut.";
+const char D_08059f9c[] = "\nOccupe-toi juste du d‡Qbut‡R!";
 
 const char D_08059fb4[] = "\nCommence au bon moment‡R!";
 
 const char D_08059fd0[] = "\nTe laisse pas distraire‡R!";
 
-const char D_08059fe8[] = "\nAppuie aussi sur A.";
+const char D_08059fe8[] = "\nAppuie aussi sur B.";
 
 const char D_0805a004[] = "\nAppuie aussi sur R.";
 
@@ -137,7 +137,7 @@ const char D_0805a038[] = "\nTe pr‡Qcipite pas‡R!";
 
 const char D_0805a048[] = "\nT'‡Qtais en retard.";
 
-const char D_0805a058[] = "\nTres bien‡R!";
+const char D_0805a058[] = "\nTr‡as bien‡R!";
 
 const char D_0805a06c[] = "\nBien‡R!";
 
