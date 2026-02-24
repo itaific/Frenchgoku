@@ -53,7 +53,7 @@ void data_check_scene_start(void *sVar, s32 dArg) {
         gDataCheck->textLineSprites[i] = -1;
     }
 
-    data_check_print_line(0, 1, "Gameplay Logs"); // Gameplay Logs
+    data_check_print_line(0, 1, "Journal de jeu"); // Gameplay Logs
     gDataCheck->currentPage = 0;
     gDataCheck->totalPages = game_select_get_total_levels();
     data_check_print_page(gDataCheck->currentPage);
@@ -149,9 +149,9 @@ void data_check_print_page(s32 id) {
 
     strintf(number, id);
     memcpy(string, "  ", 3);
-    strcat(string, "No. ");
+    strcat(string, "N‡‚ ");
     strcat(string, number);
-    strcat(string, ":  ");
+    strcat(string, "‡R:  ");
     strcat(string, game_select_get_level_name(id));
     data_check_print_line(2, 0, string);
 
@@ -164,7 +164,7 @@ void data_check_print_page(s32 id) {
     }
 
     memcpy(string, "  ", 3);
-    strcat(string, "Average Points: "); // Average Points:
+    strcat(string, "Moyenne de points‡R: "); // Average Points:
     strcat(string, number);
 
     if (avgPoints != DEFAULT_LEVEL_SCORE) {
@@ -178,31 +178,31 @@ void data_check_print_page(s32 id) {
     firstSuperb = saveData->levelFirstSuperb[id];
 
     memcpy(string, "  ", 3);
-    strcat(string, "Number of Times Played: "); // Number of Times Played:
+    strcat(string, "Nombre de fois jou‡Q‡R: "); // Number of Times Played:
     strintf(number, totalPlays);
     strcat(string, number);
     data_check_print_line(4, 0, string);
 
     if (totalPlays > 0) {
         memcpy(string, "  ", 3);
-        strcat(string, "( First OK: Attempt "); // ( First OK:
+        strcat(string, "1er OK‡R: tentative n‡‚ "); // ( First OK:
 
         if (firstOK == 0) {
-            strcat(string, "None Yet"); // Not Yet
+            strcat(string, "Non atteint"); // Not Yet
         } else {
             strintf(number, firstOK);
             strcat(string, number);
             strcat(string, ""); // [x]th Time
         }
 
-        strcat(string, "     First Superb: Attempt "); // First Superb:
+        strcat(string, "     1er Super‡R: tentative n‡‚ "); // First Superb:
 
         if (firstSuperb == 0) {
-            strcat(string, "0 )"); // Not Yet )
+            strcat(string, "0"); // Not Yet )
         } else {
             strintf(number, firstSuperb);
             strcat(string, number);
-            strcat(string, " )"); // [x]th Time )
+            strcat(string, ""); // [x]th Time )
         }
 
         data_check_print_line(5, 0, string);
