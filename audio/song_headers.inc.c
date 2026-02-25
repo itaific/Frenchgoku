@@ -3560,6 +3560,30 @@ struct SongHeader s_guntai_v_muke_f_seqData = {
     /* Song Number   */ 1932
 };
 
+extern const u8 s_guntai_v_adroitef_mid[];
+struct SongHeader s_guntai_v_adroitef_seqData = {
+    /* MIDI Sequence */ s_guntai_v_adroitef_mid,
+    /* Sound Player  */ SFX_PLAYER_1,
+    /* Bank Number   */ INST_BANK_4,
+    /* Volume        */ 127,
+    /* Priority      */ 90,
+    /* unk8          */ 0x40,
+    /* Song Title    */ s_guntai_v_adroitef_seqName,
+    /* Song Number   */ 1899
+};
+
+extern const u8 s_guntai_v_agauchef_mid[];
+struct SongHeader s_guntai_v_agauchef_seqData = {
+    /* MIDI Sequence */ s_guntai_v_agauchef_mid,
+    /* Sound Player  */ SFX_PLAYER_1,
+    /* Bank Number   */ INST_BANK_4,
+    /* Volume        */ 127,
+    /* Priority      */ 90,
+    /* unk8          */ 0x40,
+    /* Song Title    */ s_guntai_v_agauchef_seqName,
+    /* Song Number   */ 1898
+};
+
 extern const u8 s_guntai_v_zentai1_mid[];
 struct SongHeader s_guntai_v_zentai1_seqData = {
     /* MIDI Sequence */ s_guntai_v_zentai1_mid,

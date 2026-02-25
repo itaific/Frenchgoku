@@ -126,7 +126,7 @@ union Instrument inst_bank_04[] = {
     #ifdef SFX
     /* 060 */ { .pcm = &instrument_pcm_moRn }, { .pcm = &instrument_pcm_moLn }, NULL,                            NULL,
     /* 064 */ { .pcm = &instrument_pcm_moA2 }, { .pcm = &instrument_pcm_moA3 }, NULL,                            NULL,
-    /* 068 */ { .pcm = &instrument_pcm_moFf }, NULL,                            NULL,                            NULL,
+    /* 068 */ { .pcm = &instrument_pcm_moFf }, { .pcm = &instrument_pcm_moDF }, { .pcm = &instrument_pcm_moGF }, NULL,
     #else
     /* 060 */ NULL,                            NULL,                            NULL,                            NULL,
     /* 064 */ NULL,                            NULL,                            NULL,                            NULL,

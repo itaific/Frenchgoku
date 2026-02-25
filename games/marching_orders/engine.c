@@ -483,12 +483,12 @@ struct MarchingSfxData marching_sfx_table[][18] = {
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
         /* CMD_FACE_QUICK */ {
-            /* Sound  */ &s_guntai_v_muke_f_seqData,
+            /* Sound  */ &s_guntai_v_adroitef_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
         /* CMD_FACE_QUICK */ {
-            /* Sound  */ &s_guntai_v_muke_f_seqData,
+            /* Sound  */ &s_guntai_v_agauchef_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
             /* Pitch  */ INT_TO_FIXED(0.0)
         }
@@ -575,12 +575,12 @@ struct MarchingSfxData marching_sfx_table[][18] = {
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
         /* CMD_FACE_QUICK */ {
-            /* Sound  */ &s_guntai_v_muke_f_seqData,
+            /* Sound  */ &s_guntai_v_adroitef_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
         /* CMD_FACE_QUICK */ {
-            /* Sound  */ &s_guntai_v_muke_f_seqData,
+            /* Sound  */ &s_guntai_v_agauchef_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
             /* Pitch  */ INT_TO_FIXED(0.0)
         }
@@ -667,12 +667,12 @@ struct MarchingSfxData marching_sfx_table[][18] = {
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
         /* CMD_FACE_QUICK */ {
-            /* Sound  */ &s_guntai_v_muke_f_seqData,
+            /* Sound  */ &s_guntai_v_adroitef_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
             /* Pitch  */ INT_TO_FIXED(0.0)
         },
         /* CMD_FACE_QUICK */ {
-            /* Sound  */ &s_guntai_v_muke_f_seqData,
+            /* Sound  */ &s_guntai_v_agauchef_seqData,
             /* Volume */ INT_TO_FIXED(1.0),
             /* Pitch  */ INT_TO_FIXED(0.0)
         }
