@@ -745,7 +745,6 @@ char s_f_marcher2_v_hidarimukeS_seqName[] = "";
 char s_f_marcher2_v_hidarimukeS2_seqName[] = "";
 char s_f_marcher2_v_hidari_seqName[] = "";
 char s_guntai_v_muke_f_seqName[] = "";
-char s_guntai_v_adroitef_seqName[] = "";
 char s_guntai_v_agauchef_seqName[] = "";
 char s_f_marcher2_v_zentai_jp_seqName[] = "";
 char s_f_marcher2_v_susume_jp_seqName[] = "";

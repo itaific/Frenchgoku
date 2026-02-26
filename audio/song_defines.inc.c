@@ -1926,7 +1926,7 @@
 /* 1896 */ DEFINE_SONG( NULL, 0 )
 /* 1897 */ DEFINE_SONG( NULL, 0 )
 /* 1898 */ DEFINE_SONG( &s_guntai_v_agauchef_seqData,          SFX_PLAYER_1   )
-/* 1899 */ DEFINE_SONG( &s_guntai_v_adroitef_seqData,          SFX_PLAYER_1   )
+/* 1899 */ DEFINE_SONG( NULL, 0 )
 /* 1900 */ DEFINE_SONG( &s_jingle_rat_seqData,               MUSIC_PLAYER_0 )
 /* 1901 */ DEFINE_SONG( &s_jingle_march_seqData,             MUSIC_PLAYER_0 )
 /* 1902 */ DEFINE_SONG( &s_jingle_iai_seqData,               MUSIC_PLAYER_0 )
