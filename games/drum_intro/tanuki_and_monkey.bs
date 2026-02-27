@@ -97,45 +97,45 @@ return
 
 
 text D_08a2f220
-    .ascii "Okay, let's start\n"
-    .asciz "out simple for now."
+    .ascii "OK, on y va doucement\n"
+    .asciz "pour commencer."
 endtext
 
 text D_08a2f248
-    .ascii "Strike 1!\n"
-    .ascii "You have two more\n"
-    .asciz "chances. Good luck!"
+    .ascii "1re erreur‡R!\n"
+    .ascii "Il te reste deux\n"
+    .asciz "chances. Courage‡R!"
 endtext
 
 text D_08a2f278
-    .ascii "Strike 2!\n"
-    .ascii "This is your last\n"
-    .asciz "chance! Concentrate!"
+    .ascii "2e erreur‡R!\n"
+    .ascii "C'est ta derni‡are\n"
+    .asciz "chance‡R! Concentre-toi‡R!"
 endtext
 
 text D_08a2f2a0
-    .ascii "OK! On to the next one!\n"
-    .ascii "Think you can\n"
-    .asciz "handle this one?"
+    .ascii "OK‡R! On passe ‡g\n"
+    .ascii "la suite‡R! Tu crois\n"
+    .asciz "pouvoir y arriver‡R?"
 endtext
 
 text D_08a2f2d4
-    .ascii "Good job.\n"
-    .ascii "For the next pattern,\n"
-    .asciz "Ponta will play along, too!"
+    .ascii "Pas mal.\n"
+    .ascii "Maintenant, mon ami\n"
+    .asciz "tanuki va jouer aussi‡R!"
 endtext
 
 text D_08a2f308
-    .ascii "That was great!\n"
-    .ascii "This next one's\n"
-    .asciz "a little more tricky!"
+    .ascii "Bravo‡R!\n"
+    .ascii "La suite risque\n"
+    .asciz "d'ˆ®tre plus technique‡R!"
 endtext
 
 text D_08a2f340
-    .ascii "Heh, you're better\n"
-    .ascii "than we thought!\n"
-    .ascii "Looks like we'll have\n"
-    .asciz "to bring out the big guns!\n"
+    .ascii "H‡Qh‡Q, t'es plus fort\n"
+    .ascii "qu'on le pensait‡R!\n"
+    .ascii "Je crois qu'on va devoir\n"
+    .asciz "sortir le grand jeu‡R!\n"
 endtext
 
 

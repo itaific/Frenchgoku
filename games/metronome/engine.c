@@ -98,11 +98,11 @@ struct CueDefinition *metronome_cue_index[] = {
     END_OF_CUE_INDEX
 };
 
-const char D_0805a694[] = "Press ‡M in time with the signal.";
+const char D_0805a694[] = "Appuyez sur ‡M au moment oˆ· retentit le signal sonore.";
 
-const char D_0805a6c0[] = "Measuring...";
+const char D_0805a6c0[] = "Mesure en cours...";
 
-const char D_0805a6c8[] = "Finished measuring! Your rhythm score is...";
+const char D_0805a6c8[] = "Mesure termin‡Qe‡R! Votre score de rythme est de...";
 
   //  //  //  GAME ENGINE DATA  //  //  //
 

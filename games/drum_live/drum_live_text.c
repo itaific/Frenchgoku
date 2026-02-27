@@ -5,14 +5,14 @@
 /* Game Text - LIVE */
 
 
-const char D_0805d398[] = "That was rather messy. ";
+const char D_0805d398[] = "C'‡Qtait assez chaotique. ";
 
-const char D_0805d3b0[] = "So close to something cool! ";
+const char D_0805d3b0[] = "C'‡Qtait pas loin de devenir cool‡R! ";
 
-const char D_0805d3c4[] = "Something doesn't seem right with this. ";
+const char D_0805d3c4[] = "Il y a encore un truc qui cloche. ";
 
-const char D_0805d3e4[] = "You nailed it!";
+const char D_0805d3e4[] = "C'‡Qtait parfait‡R!";
 
-const char D_0805d404[] = "You were lucky you didn't trip yourself.";
+const char D_0805d404[] = "T'as eu de la chance, cette fois‡R!";
 
-const char D_0805d420[] = "Seems like you have a lot of energy!";
+const char D_0805d420[] = "Tu d‡Qbordes d'‡Qnergie, dis donc‡R!";

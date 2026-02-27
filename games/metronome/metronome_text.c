@@ -5,12 +5,12 @@
 /* Game Text - Metronome */
 
 
-const char D_0805ccc8[] = "You'll have to put in a lot of effort...";
+const char D_0805ccc8[] = "Heu... va falloir travailler dur...";
 
-const char D_0805cce4[] = "You'll need to try a little harder.";
+const char D_0805cce4[] = "Il y a pire, mais il y a bien mieux aussi...";
 
-const char D_0805cd04[] = "You're as accurate as any person could be.";
+const char D_0805cd04[] = "Dans la moyenne... des meilleurs‡R!";
 
-const char D_0805cd24[] = "You have an accurate biological clock!";
+const char D_0805cd24[] = "Plus pr‡Qcis qu'une montre‡R!";
 
-const char D_0805cd44[] = "Incredible! You're as precise as an atomic clock!";
+const char D_0805cd44[] = "Incroyable‡R! Une horloge atomique sur pattes‡R!";
