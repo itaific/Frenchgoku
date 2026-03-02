@@ -98,7 +98,7 @@ AnimationCel game_overlay_cel010[] = {
 
 AnimationCel game_overlay_cel011[] = {
     /* Len */ 17,
-    /* 000 */ 0x0010, 0x41bc, 0x100c,
+    /* 000 */ 0x0010, 0x41be, 0x100c,
     /* 001 */ 0x4010, 0x81d0, 0x1000,
     /* 002 */ 0x0016, 0x01f0, 0x1033,
     /* 003 */ 0x0015, 0x01f0, 0x003f,
@@ -119,7 +119,7 @@ AnimationCel game_overlay_cel011[] = {
 
 AnimationCel game_overlay_cel012[] = {
     /* Len */ 17,
-    /* 000 */ 0x000f, 0x41bc, 0x100c,
+    /* 000 */ 0x000f, 0x41be, 0x100c,
     /* 001 */ 0x4010, 0x81d0, 0x1000,
     /* 002 */ 0x0016, 0x01f0, 0x1033,
     /* 003 */ 0x0015, 0x01f0, 0x003f,
@@ -140,7 +140,7 @@ AnimationCel game_overlay_cel012[] = {
 
 AnimationCel game_overlay_cel013[] = {
     /* Len */ 17,
-    /* 000 */ 0x0011, 0x41bc, 0x100c,
+    /* 000 */ 0x0011, 0x41be, 0x100c,
     /* 001 */ 0x4010, 0x81d0, 0x1000,
     /* 002 */ 0x0016, 0x01f0, 0x1033,
     /* 003 */ 0x0015, 0x01f0, 0x003f,
