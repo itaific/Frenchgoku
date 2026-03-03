@@ -21,4 +21,4 @@ const char D_0805b43c[] = "J'esp‡Qrais que vous r‡Qussiriez au moins la fin...";
 
 const char D_0805b460[] = "Mˆ®me les plus lents ‡Qtaient maˆ²tris‡Qs‡R!";
 
-const char D_0805b480[] = "Votre maˆ²tre vous mumure";
+const char D_0805b480[] = "Votre maˆ²tre vous murmure";
