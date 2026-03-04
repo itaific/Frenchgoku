@@ -331,7 +331,7 @@ void start_campaign_notice(s32 id) {
         strcat(string, "WISH - Can't Wait\n for You");
     }
     strcat(string, "\n"); // "
-    if (isStandardSong) {
+    if (isSong) {
         strcat(string, "‡g ‡Qcouter‡R!"); // 's song
     }
     if (giftType == CAMPAIGN_GIFT_DRUM_KIT || giftType == CAMPAIGN_GIFT_READING_MATERIAL) {
