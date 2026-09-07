@@ -20,9 +20,15 @@ const char D_0806a0a0[] = "Vous avez pris le coup de main⑲!";
 const char D_0806a0b8[] = "Avis de la f⑱d⑱ration";
 
 const char D_0806a0d4[] =
+    "\x05\x31" "\x01\x35" "　 ♪　Koi no Honey Sweet Angel";
+
+const char D_0806a0d4_fr[] =
     "\x05\x31" "\x01\x35" "　 ♪　Petit Ange Sucr⑱";
 
 const char D_0806a0fc[] =
+    "\x05\x31" "\x01\x35" "　 Chant⑲:　　Ami Tokito";
+
+const char D_0806a0fc_fr[] =
     "\x05\x31" "\x01\x35" "　 Chant⑲:　　Bellajenna";
 
 const char D_0806a118[] =

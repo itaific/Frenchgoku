@@ -1767,7 +1767,6 @@ script script_bon_odori_main
         disable_pause_menu
         rest 24
     end_if
-    set_localized BEATSCRIPT_LOCALIZED_COND_GLOBAL_NON_JP_SFX
 return
 
 

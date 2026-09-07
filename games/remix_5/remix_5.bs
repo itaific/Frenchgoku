@@ -118,7 +118,12 @@ script script_remix_5_main
     set_tempo 204
     set_music_volume 150
     set_game_fade_in_time 120
-    print_text_s D_0806a2f4
+    set_localized BEATSCRIPT_LOCALIZED_COND_GLOBAL_NON_JP_MUSIC
+    if_localized
+        print_text_s D_0806a2f4_fr
+    else
+        print_text_s D_0806a2f4
+    end_if
     rest 24
     rest 24
     enable_pause_menu
@@ -743,7 +748,12 @@ script script_remix_5_main
     set_game_fade_in_time 20
 
     load_toss_boys_remix_5
-    print_text_s D_0806a314
+    set_localized BEATSCRIPT_LOCALIZED_COND_GLOBAL_NON_JP_MUSIC
+    if_localized
+        print_text_s D_0806a314_fr
+    else
+        print_text_s D_0806a314
+    end_if
     toss_boys_event08
     beat_anim
     rest 24
