@@ -334,3 +334,10 @@ struct InstrumentSubRhythm instrument_rhy_0835 = {
     /* Base Key  */ 36,
     /* Sub-Bank  */ inst_bank_47
 };
+
+extern union Instrument inst_bank_ange_fr[];
+struct InstrumentSubRhythm instrument_rhy_ange_fr = {
+    /* Type      */ INSTRUMENT_SUB_RHYTHM,
+    /* Base Key  */ 36,
+    /* Sub-Bank  */ inst_bank_ange_fr
+};

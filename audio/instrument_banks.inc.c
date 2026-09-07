@@ -1496,7 +1496,7 @@ union Instrument inst_bank_42[] = {
     /* 112 */ NULL,                            NULL,                            NULL,                            NULL,
     /* 116 */ NULL,                            NULL,                            NULL,                            NULL,
     /* 120 */ NULL,                            NULL,                            NULL,                            NULL,
-    /* 124 */ NULL,                            { .rhy = &instrument_rhy_0833 }, { .rhy = &instrument_rhy_0834 }, { .rhy = &instrument_rhy_0835 }
+    /* 124 */ { .rhy = &instrument_rhy_ange_fr },                            { .rhy = &instrument_rhy_0833 }, { .rhy = &instrument_rhy_0834 }, { .rhy = &instrument_rhy_0835 }
 };
 
 // 128 Instruments
@@ -2129,4 +2129,25 @@ union Instrument inst_bank_bon_dance_fr[] = {
     /* 068 */ { .pcm = &instrument_pcm_fr_1310 }, { .pcm = &instrument_pcm_fr_1311 }, { .pcm = &instrument_pcm_fr_1312 }, { .pcm = &instrument_pcm_fr_1313 },
     /* 072 */ { .pcm = &instrument_pcm_fr_1314 }, { .pcm = &instrument_pcm_fr_1315 }, { .pcm = &instrument_pcm_fr_1316 }, { .pcm = &instrument_pcm_fr_1317 },
     /* 076 */ { .pcm = &instrument_pcm_fr_1318 }, { .pcm = &instrument_pcm_fr_1319 }
+};
+
+union Instrument inst_bank_ange_fr[] = {
+    /* 000 */ { .pcm = &instrument_pcm_fr_1320 }, { .pcm = &instrument_pcm_fr_1321 }, { .pcm = &instrument_pcm_fr_1322 }, { .pcm = &instrument_pcm_fr_1323 },
+    /* 004 */ { .pcm = &instrument_pcm_fr_1324 }, { .pcm = &instrument_pcm_fr_1325 }, { .pcm = &instrument_pcm_fr_1326 }, { .pcm = &instrument_pcm_fr_1327 },
+    /* 008 */ { .pcm = &instrument_pcm_fr_1328 }, { .pcm = &instrument_pcm_fr_1329 }, { .pcm = &instrument_pcm_fr_1330 }, { .pcm = &instrument_pcm_fr_1331 },
+    /* 012 */ { .pcm = &instrument_pcm_fr_1332 }, { .pcm = &instrument_pcm_fr_1333 }, { .pcm = &instrument_pcm_fr_1334 }, { .pcm = &instrument_pcm_fr_1335 },
+    /* 016 */ { .pcm = &instrument_pcm_fr_1336 }, { .pcm = &instrument_pcm_fr_1337 }, { .pcm = &instrument_pcm_fr_1338 }, { .pcm = &instrument_pcm_fr_1339 },
+    /* 020 */ { .pcm = &instrument_pcm_fr_1340 }, { .pcm = &instrument_pcm_fr_1341 }, { .pcm = &instrument_pcm_fr_1342 }, { .pcm = &instrument_pcm_fr_1343 },
+    /* 024 */ { .pcm = &instrument_pcm_fr_1344 }, { .pcm = &instrument_pcm_fr_1345 }, { .pcm = &instrument_pcm_fr_1346 }, { .pcm = &instrument_pcm_fr_1347 },
+    /* 028 */ { .pcm = &instrument_pcm_fr_1348 }, { .pcm = &instrument_pcm_fr_1349 }, { .pcm = &instrument_pcm_fr_1350 }, { .pcm = &instrument_pcm_fr_1351 },
+    /* 032 */ { .pcm = &instrument_pcm_fr_1352 }, { .pcm = &instrument_pcm_fr_1353 }, { .pcm = &instrument_pcm_fr_1354 }, { .pcm = &instrument_pcm_fr_1355 },
+    /* 036 */ { .pcm = &instrument_pcm_fr_1356 }, { .pcm = &instrument_pcm_fr_1357 }, { .pcm = &instrument_pcm_fr_1358 }, { .pcm = &instrument_pcm_fr_1359 },
+    /* 040 */ { .pcm = &instrument_pcm_fr_1360 }, { .pcm = &instrument_pcm_fr_1361 }, NULL,                            NULL,
+    /* 044 */ NULL,                            NULL,                            NULL,                            NULL,
+    /* 048 */ NULL,                            NULL,                            NULL,                            { .pcm = &instrument_pcm_1362 },
+    /* 052 */ { .pcm = &instrument_pcm_1363 }, { .pcm = &instrument_pcm_1364 }, { .pcm = &instrument_pcm_1365 }, { .pcm = &instrument_pcm_1366 },
+    /* 056 */ { .pcm = &instrument_pcm_1367 }, { .pcm = &instrument_pcm_1368 }, { .pcm = &instrument_pcm_1369 }, { .pcm = &instrument_pcm_1370 },
+    /* 060 */ { .pcm = &instrument_pcm_1371 }, { .pcm = &instrument_pcm_1372 }, { .pcm = &instrument_pcm_1373 }, { .pcm = &instrument_pcm_1374 },
+    /* 064 */ { .pcm = &instrument_pcm_1375 }, { .pcm = &instrument_pcm_1376 }, { .pcm = &instrument_pcm_1377 }, { .pcm = &instrument_pcm_1378 },
+    /* 068 */ { .pcm = &instrument_pcm_1379 }
 };
