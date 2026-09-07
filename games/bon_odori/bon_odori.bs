@@ -493,7 +493,7 @@ script script_bon_odori_main
         bon_odori_animate_all ANIM_SPIN
         beat_anim
         rest 12
-        bon_odori_lyrics_start_highlight 2, 36 //et frappez 50
+        bon_odori_lyrics_start_highlight 2, 35 //et frappez 50
         rest 12
         beat_anim
         rest 24
@@ -790,7 +790,7 @@ script script_bon_odori_main
         bon_odori_animate_all ANIM_SPIN
         beat_anim
         rest 12
-        bon_odori_lyrics_start_highlight 2, 36 //et frappez
+        bon_odori_lyrics_start_highlight 2, 35 //et frappez
         rest 12
         beat_anim
         rest 24
