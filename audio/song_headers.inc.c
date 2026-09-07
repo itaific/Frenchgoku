@@ -970,6 +970,18 @@ struct SongHeader s_bon_dance_bgm_seqData = {
     /* Song Number   */ 1073
 };
 
+extern const u8 s_bon_dance_bgm_fr_mid[];
+struct SongHeader s_bon_dance_bgm_fr_seqData = {
+    /* MIDI Sequence */ s_bon_dance_bgm_fr_mid,
+    /* Sound Player  */ MUSIC_PLAYER_0,
+    /* Bank Number   */ INST_BANK_39,
+    /* Volume        */ 90,
+    /* Priority      */ 50,
+    /* unk8          */ 0xff,
+    /* Song Title    */ NULL,
+    /* Song Number   */ 1097
+};
+
 extern const u8 s_4beat_bgm_mid[];
 struct SongHeader s_4beat_bgm_seqData = {
     /* MIDI Sequence */ s_4beat_bgm_mid,
