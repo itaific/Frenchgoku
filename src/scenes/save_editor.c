@@ -582,7 +582,7 @@ void save_editor_render_page(void) {
 
     save_editor_draw_line(SE_LINE_HINT_A, 0, "‡K/‡L : Naviguer", 8, 48);
 
-    save_editor_draw_line(SE_LINE_HINT_B, 0, "SELECT (+ ‡K): Exit (and Save)", 8, 64);
+    save_editor_draw_line(SE_LINE_HINT_B, 0, "SELECT : Quitter                ‡K + SELECT : Sauvegarder", 8, 64);
 
     if (m->kind == SE_KIND_BITFLAGS && m->flagCount > 0) {
         void* ptr = save_editor_get_value_ptr(member, arrIdx, 0);
